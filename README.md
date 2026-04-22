@@ -93,6 +93,10 @@ python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 
 # Option A: Use pre-trained model (data + model already in repo)
+(For self to run) Activate the venv first:
+source .venv/bin/activate
+
+Run the following command:
 streamlit run src/app.py
 
 # Option B: Train from scratch
