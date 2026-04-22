@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw API data (large, can be re-fetched)
+data/raw/
+
+# IDE
+.vscode/
+.idea/
+
+# Stray files
+race_results.csv

@@ -1,0 +1,1845 @@
+season,round,circuit_id,circuit_name,driver_id,driver_name,constructor_id,constructor_name,grid_position,finish_position,status,points
+2023,1,sakhir,"Sakhir, Bahrain",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",ALO,Fernando ALONSO,aston_martin,Aston Martin,5,3.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",SAI,Carlos SAINZ,ferrari,Ferrari,4,4.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",HAM,Lewis HAMILTON,mercedes,Mercedes,7,5.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",STR,Lance STROLL,aston_martin,Aston Martin,8,6.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",RUS,George RUSSELL,mercedes,Mercedes,6,7.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,12,8.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",GAS,Pierre GASLY,alpine,Alpine,20,9.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",ALB,Alexander ALBON,williams,Williams,15,10.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,14,11.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",SAR,Logan SARGEANT,williams,Williams,16,12.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,13.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,19,14.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,15.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,13,16.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",NOR,Lando NORRIS,mclaren,McLaren,11,17.0,Finished,0.0
+2023,1,sakhir,"Sakhir, Bahrain",OCO,Esteban OCON,alpine,Alpine,9,,DNF,0.0
+2023,1,sakhir,"Sakhir, Bahrain",LEC,Charles LECLERC,ferrari,Ferrari,3,,DNF,0.0
+2023,1,sakhir,"Sakhir, Bahrain",PIA,Oscar PIASTRI,mclaren,McLaren,18,,DNF,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,15,2.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",ALO,Fernando ALONSO,aston_martin,Aston Martin,2,3.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",RUS,George RUSSELL,mercedes,Mercedes,3,4.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",HAM,Lewis HAMILTON,mercedes,Mercedes,7,5.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",SAI,Carlos SAINZ,ferrari,Ferrari,4,6.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",LEC,Charles LECLERC,ferrari,Ferrari,12,7.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",OCO,Esteban OCON,alpine,Alpine,6,8.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",GAS,Pierre GASLY,alpine,Alpine,9,9.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,13,10.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,16,11.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,12.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,11,13.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,18,14.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",PIA,Oscar PIASTRI,mclaren,McLaren,8,15.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",SAR,Logan SARGEANT,williams,Williams,20,16.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",NOR,Lando NORRIS,mclaren,McLaren,19,17.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,14,18.0,Finished,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",ALB,Alexander ALBON,williams,Williams,17,,DNF,0.0
+2023,2,jeddah,"Jeddah, Saudi Arabia",STR,Lance STROLL,aston_martin,Aston Martin,5,,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",HAM,Lewis HAMILTON,mercedes,Mercedes,3,2.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",ALO,Fernando ALONSO,aston_martin,Aston Martin,4,3.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",STR,Lance STROLL,aston_martin,Aston Martin,6,4.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,20,5.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",NOR,Lando NORRIS,mclaren,McLaren,13,6.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,7.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",PIA,Oscar PIASTRI,mclaren,McLaren,16,8.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,17,9.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,12,10.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,19,11.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",SAI,Carlos SAINZ,ferrari,Ferrari,5,12.0,Finished,0.0
+2023,3,melbourne,"Melbourne, Australia",GAS,Pierre GASLY,alpine,Alpine,9,13.0,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",OCO,Esteban OCON,alpine,Alpine,11,14.0,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,15,15.0,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",SAR,Logan SARGEANT,williams,Williams,18,16.0,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,14,17.0,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",RUS,George RUSSELL,mercedes,Mercedes,2,,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",ALB,Alexander ALBON,williams,Williams,8,,DNF,0.0
+2023,3,melbourne,"Melbourne, Australia",LEC,Charles LECLERC,ferrari,Ferrari,7,,DNF,0.0
+2023,4,baku,"Baku, Azerbaijan",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",LEC,Charles LECLERC,ferrari,Ferrari,1,2.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,3.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",RUS,George RUSSELL,mercedes,Mercedes,4,4.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",SAI,Carlos SAINZ,ferrari,Ferrari,5,5.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,6.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",HAM,Lewis HAMILTON,mercedes,Mercedes,6,7.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",STR,Lance STROLL,aston_martin,Aston Martin,9,8.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",ALB,Alexander ALBON,williams,Williams,7,9.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",PIA,Oscar PIASTRI,mclaren,McLaren,11,10.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,13,11.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,14,12.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",GAS,Pierre GASLY,alpine,Alpine,17,13.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,18,14.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,15.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,15,16.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",NOR,Lando NORRIS,mclaren,McLaren,10,17.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",OCO,Esteban OCON,alpine,Alpine,19,18.0,Finished,0.0
+2023,4,baku,"Baku, Azerbaijan",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,16,,DNF,0.0
+2023,5,baku,"Baku, Azerbaijan",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,3,1.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",LEC,Charles LECLERC,ferrari,Ferrari,1,3.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,4.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",SAI,Carlos SAINZ,ferrari,Ferrari,4,5.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",HAM,Lewis HAMILTON,mercedes,Mercedes,5,6.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",STR,Lance STROLL,aston_martin,Aston Martin,9,7.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",RUS,George RUSSELL,mercedes,Mercedes,11,8.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",NOR,Lando NORRIS,mclaren,McLaren,7,9.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,8,10.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",PIA,Oscar PIASTRI,mclaren,McLaren,10,11.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",ALB,Alexander ALBON,williams,Williams,12,12.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,16,13.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",GAS,Pierre GASLY,alpine,Alpine,17,14.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",OCO,Esteban OCON,alpine,Alpine,19,15.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",SAR,Logan SARGEANT,williams,Williams,14,16.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,20,17.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,13,18.0,Finished,0.0
+2023,5,baku,"Baku, Azerbaijan",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,15,,DNF,0.0
+2023,5,baku,"Baku, Azerbaijan",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,18,,DNF,0.0
+2023,6,miami,"Miami, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,9,1.0,Finished,0.0
+2023,6,miami,"Miami, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,1,2.0,Finished,0.0
+2023,6,miami,"Miami, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,2,3.0,Finished,0.0
+2023,6,miami,"Miami, United States",RUS,George RUSSELL,mercedes,Mercedes,6,4.0,Finished,0.0
+2023,6,miami,"Miami, United States",SAI,Carlos SAINZ,ferrari,Ferrari,3,5.0,Finished,0.0
+2023,6,miami,"Miami, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,13,6.0,Finished,0.0
+2023,6,miami,"Miami, United States",LEC,Charles LECLERC,ferrari,Ferrari,7,7.0,Finished,0.0
+2023,6,miami,"Miami, United States",GAS,Pierre GASLY,alpine,Alpine,5,8.0,Finished,0.0
+2023,6,miami,"Miami, United States",OCO,Esteban OCON,alpine,Alpine,8,9.0,Finished,0.0
+2023,6,miami,"Miami, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,4,10.0,Finished,0.0
+2023,6,miami,"Miami, United States",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,17,11.0,Finished,0.0
+2023,6,miami,"Miami, United States",STR,Lance STROLL,aston_martin,Aston Martin,18,12.0,Finished,0.0
+2023,6,miami,"Miami, United States",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,10,13.0,Finished,0.0
+2023,6,miami,"Miami, United States",ALB,Alexander ALBON,williams,Williams,11,14.0,Finished,0.0
+2023,6,miami,"Miami, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,15.0,Finished,0.0
+2023,6,miami,"Miami, United States",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,14,16.0,Finished,0.0
+2023,6,miami,"Miami, United States",NOR,Lando NORRIS,mclaren,McLaren,16,17.0,Finished,0.0
+2023,6,miami,"Miami, United States",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,15,18.0,Finished,0.0
+2023,6,miami,"Miami, United States",PIA,Oscar PIASTRI,mclaren,McLaren,19,19.0,Finished,0.0
+2023,6,miami,"Miami, United States",SAR,Logan SARGEANT,williams,Williams,20,20.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",ALO,Fernando ALONSO,aston_martin,Aston Martin,2,2.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",OCO,Esteban OCON,alpine,Alpine,3,3.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",HAM,Lewis HAMILTON,mercedes,Mercedes,5,4.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",RUS,George RUSSELL,mercedes,Mercedes,8,5.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",LEC,Charles LECLERC,ferrari,Ferrari,6,6.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",GAS,Pierre GASLY,alpine,Alpine,7,7.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",SAI,Carlos SAINZ,ferrari,Ferrari,4,8.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",NOR,Lando NORRIS,mclaren,McLaren,10,9.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",PIA,Oscar PIASTRI,mclaren,McLaren,11,10.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,15,11.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,12,12.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,19,13.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",ALB,Alexander ALBON,williams,Williams,13,14.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,9,15.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,20,16.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,18,17.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",SAR,Logan SARGEANT,williams,Williams,16,18.0,Finished,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,19.0,DNF,0.0
+2023,7,monte_carlo,"Monte Carlo, Monaco",STR,Lance STROLL,aston_martin,Aston Martin,14,,DNF,0.0
+2023,8,catalunya,"Catalunya, Spain",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",HAM,Lewis HAMILTON,mercedes,Mercedes,4,2.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",RUS,George RUSSELL,mercedes,Mercedes,12,3.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,11,4.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",SAI,Carlos SAINZ,ferrari,Ferrari,2,5.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",STR,Lance STROLL,aston_martin,Aston Martin,5,6.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,7.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",OCO,Esteban OCON,alpine,Alpine,6,8.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,13,9.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",GAS,Pierre GASLY,alpine,Alpine,10,10.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",LEC,Charles LECLERC,ferrari,Ferrari,19,11.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,15,12.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",PIA,Oscar PIASTRI,mclaren,McLaren,9,13.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,14,14.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,7,15.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",ALB,Alexander ALBON,williams,Williams,18,16.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",NOR,Lando NORRIS,mclaren,McLaren,3,17.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,18.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,16,19.0,Finished,0.0
+2023,8,catalunya,"Catalunya, Spain",SAR,Logan SARGEANT,williams,Williams,20,20.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",ALO,Fernando ALONSO,aston_martin,Aston Martin,2,2.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",HAM,Lewis HAMILTON,mercedes,Mercedes,3,3.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",LEC,Charles LECLERC,ferrari,Ferrari,10,4.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",SAI,Carlos SAINZ,ferrari,Ferrari,11,5.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,12,6.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",ALB,Alexander ALBON,williams,Williams,9,7.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",OCO,Esteban OCON,alpine,Alpine,6,8.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",STR,Lance STROLL,aston_martin,Aston Martin,16,9.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,14,10.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",PIA,Oscar PIASTRI,mclaren,McLaren,8,11.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",GAS,Pierre GASLY,alpine,Alpine,15,12.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",NOR,Lando NORRIS,mclaren,McLaren,7,13.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,19,14.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,5,15.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,20,16.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,13,17.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,17,18.0,Finished,0.0
+2023,9,montreal,"Montreal, Canada",RUS,George RUSSELL,mercedes,Mercedes,4,,DNF,0.0
+2023,9,montreal,"Montreal, Canada",SAR,Logan SARGEANT,williams,Williams,18,,DNF,0.0
+2023,10,spielberg,"Spielberg, Austria",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",SAI,Carlos SAINZ,ferrari,Ferrari,5,3.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",STR,Lance STROLL,aston_martin,Aston Martin,7,4.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,5.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,4,6.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",OCO,Esteban OCON,alpine,Alpine,8,7.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",RUS,George RUSSELL,mercedes,Mercedes,15,8.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",NOR,Lando NORRIS,mclaren,McLaren,3,9.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",HAM,Lewis HAMILTON,mercedes,Mercedes,18,10.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",PIA,Oscar PIASTRI,mclaren,McLaren,17,11.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",LEC,Charles LECLERC,ferrari,Ferrari,9,12.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",ALB,Alexander ALBON,williams,Williams,11,13.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,10,14.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",GAS,Pierre GASLY,alpine,Alpine,12,15.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,13,16.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,14,17.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",SAR,Logan SARGEANT,williams,Williams,20,18.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,16,19.0,Finished,0.0
+2023,10,spielberg,"Spielberg, Austria",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,19,20.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",LEC,Charles LECLERC,ferrari,Ferrari,2,2.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,15,3.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",NOR,Lando NORRIS,mclaren,McLaren,4,4.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,5.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",SAI,Carlos SAINZ,ferrari,Ferrari,3,6.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",RUS,George RUSSELL,mercedes,Mercedes,11,7.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",HAM,Lewis HAMILTON,mercedes,Mercedes,5,8.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",STR,Lance STROLL,aston_martin,Aston Martin,6,9.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",GAS,Pierre GASLY,alpine,Alpine,9,10.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",ALB,Alexander ALBON,williams,Williams,10,11.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,17,12.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",SAR,Logan SARGEANT,williams,Williams,18,13.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",OCO,Esteban OCON,alpine,Alpine,12,14.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,14,15.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",PIA,Oscar PIASTRI,mclaren,McLaren,13,16.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,20,17.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,19,18.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,16,19.0,Finished,0.0
+2023,11,spielberg,"Spielberg, Austria",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,8,,DNF,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",HAM,Lewis HAMILTON,mercedes,Mercedes,7,3.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",PIA,Oscar PIASTRI,mclaren,McLaren,3,4.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",RUS,George RUSSELL,mercedes,Mercedes,6,5.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,15,6.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",ALO,Fernando ALONSO,aston_martin,Aston Martin,9,7.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",ALB,Alexander ALBON,williams,Williams,8,8.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",LEC,Charles LECLERC,ferrari,Ferrari,4,9.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",SAI,Carlos SAINZ,ferrari,Ferrari,5,10.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",SAR,Logan SARGEANT,williams,Williams,14,11.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,20,12.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,11,13.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",STR,Lance STROLL,aston_martin,Aston Martin,12,14.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,17,15.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,16,16.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",DEV,Nyck DE VRIES,alphatauri,AlphaTauri,18,17.0,Finished,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",GAS,Pierre GASLY,alpine,Alpine,10,18.0,DNF,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,19,,DNF,0.0
+2023,12,silverstone,"Silverstone, United Kingdom",OCO,Esteban OCON,alpine,Alpine,13,,DNF,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",NOR,Lando NORRIS,mclaren,McLaren,3,2.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,9,3.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",HAM,Lewis HAMILTON,mercedes,Mercedes,1,4.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",PIA,Oscar PIASTRI,mclaren,McLaren,4,5.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",RUS,George RUSSELL,mercedes,Mercedes,18,6.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",LEC,Charles LECLERC,ferrari,Ferrari,6,7.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",SAI,Carlos SAINZ,ferrari,Ferrari,11,8.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,9.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",STR,Lance STROLL,aston_martin,Aston Martin,14,10.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",ALB,Alexander ALBON,williams,Williams,16,11.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,7,12.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,13,13.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,14.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,17,15.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,5,16.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,19,17.0,Finished,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",SAR,Logan SARGEANT,williams,Williams,20,18.0,DNF,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",OCO,Esteban OCON,alpine,Alpine,12,,DNF,0.0
+2023,13,hungaroring,"Hungaroring, Hungary",GAS,Pierre GASLY,alpine,Alpine,15,,DNF,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",PIA,Oscar PIASTRI,mclaren,McLaren,2,2.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",GAS,Pierre GASLY,alpine,Alpine,6,3.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",SAI,Carlos SAINZ,ferrari,Ferrari,3,4.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",LEC,Charles LECLERC,ferrari,Ferrari,4,5.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",NOR,Lando NORRIS,mclaren,McLaren,5,6.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",HAM,Lewis HAMILTON,mercedes,Mercedes,7,7.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",RUS,George RUSSELL,mercedes,Mercedes,10,8.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",OCO,Esteban OCON,alpine,Alpine,9,9.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,11,10.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",STR,Lance STROLL,aston_martin,Aston Martin,14,11.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",ALB,Alexander ALBON,williams,Williams,12,12.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,17,13.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,18,14.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,19,15.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",SAR,Logan SARGEANT,williams,Williams,13,16.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,20,17.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,16,18.0,Finished,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,8,,DNF,0.0
+2023,14,spa-francorchamps,"Spa-Francorchamps, Belgium",ALO,Fernando ALONSO,aston_martin,Aston Martin,15,,DNF,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,6,1.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",LEC,Charles LECLERC,ferrari,Ferrari,1,3.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",HAM,Lewis HAMILTON,mercedes,Mercedes,3,4.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",ALO,Fernando ALONSO,aston_martin,Aston Martin,9,5.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",RUS,George RUSSELL,mercedes,Mercedes,8,6.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",NOR,Lando NORRIS,mclaren,McLaren,7,7.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",OCO,Esteban OCON,alpine,Alpine,14,8.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",STR,Lance STROLL,aston_martin,Aston Martin,10,9.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,11,10.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",GAS,Pierre GASLY,alpine,Alpine,12,11.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,13,12.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,17,13.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",ALB,Alexander ALBON,williams,Williams,15,14.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,16,15.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,19,16.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",SAR,Logan SARGEANT,williams,Williams,18,17.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,20,18.0,Finished,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",SAI,Carlos SAINZ,ferrari,Ferrari,4,,DNF,0.0
+2023,15,spa-francorchamps,"Spa-Francorchamps, Belgium",PIA,Oscar PIASTRI,mclaren,McLaren,5,,DNF,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",ALO,Fernando ALONSO,aston_martin,Aston Martin,5,2.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",GAS,Pierre GASLY,alpine,Alpine,12,3.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,7,4.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",SAI,Carlos SAINZ,ferrari,Ferrari,6,5.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",HAM,Lewis HAMILTON,mercedes,Mercedes,13,6.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",NOR,Lando NORRIS,mclaren,McLaren,2,7.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",ALB,Alexander ALBON,williams,Williams,4,8.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",PIA,Oscar PIASTRI,mclaren,McLaren,8,9.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",OCO,Esteban OCON,alpine,Alpine,16,10.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",STR,Lance STROLL,aston_martin,Aston Martin,11,11.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,14,12.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",LAW,Liam LAWSON,alphatauri,AlphaTauri,19,13.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,18,14.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,17,15.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,20,16.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",RUS,George RUSSELL,mercedes,Mercedes,3,17.0,Finished,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,15,,DNF,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",LEC,Charles LECLERC,ferrari,Ferrari,9,,DNF,0.0
+2023,16,zandvoort,"Zandvoort, Netherlands",SAR,Logan SARGEANT,williams,Williams,10,,DNF,0.0
+2023,17,monza,"Monza, Italy",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2023,17,monza,"Monza, Italy",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,5,2.0,Finished,0.0
+2023,17,monza,"Monza, Italy",SAI,Carlos SAINZ,ferrari,Ferrari,1,3.0,Finished,0.0
+2023,17,monza,"Monza, Italy",LEC,Charles LECLERC,ferrari,Ferrari,3,4.0,Finished,0.0
+2023,17,monza,"Monza, Italy",RUS,George RUSSELL,mercedes,Mercedes,4,5.0,Finished,0.0
+2023,17,monza,"Monza, Italy",HAM,Lewis HAMILTON,mercedes,Mercedes,8,6.0,Finished,0.0
+2023,17,monza,"Monza, Italy",ALB,Alexander ALBON,williams,Williams,6,7.0,Finished,0.0
+2023,17,monza,"Monza, Italy",NOR,Lando NORRIS,mclaren,McLaren,9,8.0,Finished,0.0
+2023,17,monza,"Monza, Italy",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,9.0,Finished,0.0
+2023,17,monza,"Monza, Italy",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,14,10.0,Finished,0.0
+2023,17,monza,"Monza, Italy",LAW,Liam LAWSON,alphatauri,AlphaTauri,12,11.0,Finished,0.0
+2023,17,monza,"Monza, Italy",PIA,Oscar PIASTRI,mclaren,McLaren,7,12.0,Finished,0.0
+2023,17,monza,"Monza, Italy",SAR,Logan SARGEANT,williams,Williams,15,13.0,Finished,0.0
+2023,17,monza,"Monza, Italy",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,16,14.0,Finished,0.0
+2023,17,monza,"Monza, Italy",GAS,Pierre GASLY,alpine,Alpine,17,15.0,Finished,0.0
+2023,17,monza,"Monza, Italy",STR,Lance STROLL,aston_martin,Aston Martin,20,16.0,Finished,0.0
+2023,17,monza,"Monza, Italy",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,13,17.0,Finished,0.0
+2023,17,monza,"Monza, Italy",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,19,18.0,Finished,0.0
+2023,17,monza,"Monza, Italy",OCO,Esteban OCON,alpine,Alpine,18,,DNF,0.0
+2023,17,monza,"Monza, Italy",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,11,,DNS,0.0
+2023,18,singapore,"Singapore, Singapore",SAI,Carlos SAINZ,ferrari,Ferrari,1,1.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",NOR,Lando NORRIS,mclaren,McLaren,4,2.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",HAM,Lewis HAMILTON,mercedes,Mercedes,5,3.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",LEC,Charles LECLERC,ferrari,Ferrari,3,4.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,11,5.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",GAS,Pierre GASLY,alpine,Alpine,12,6.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",PIA,Oscar PIASTRI,mclaren,McLaren,17,7.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,13,8.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",LAW,Liam LAWSON,alphatauri,AlphaTauri,10,9.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,6,10.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",ALB,Alexander ALBON,williams,Williams,14,11.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,19,12.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,9,13.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",SAR,Logan SARGEANT,williams,Williams,18,14.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,15.0,Finished,0.0
+2023,18,singapore,"Singapore, Singapore",RUS,George RUSSELL,mercedes,Mercedes,2,16.0,DNF,0.0
+2023,18,singapore,"Singapore, Singapore",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,16,,DNF,0.0
+2023,18,singapore,"Singapore, Singapore",OCO,Esteban OCON,alpine,Alpine,8,,DNF,0.0
+2023,18,singapore,"Singapore, Singapore",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,15,,DNF,0.0
+2023,19,suzuka,"Suzuka, Japan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",NOR,Lando NORRIS,mclaren,McLaren,3,2.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",PIA,Oscar PIASTRI,mclaren,McLaren,2,3.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",LEC,Charles LECLERC,ferrari,Ferrari,4,4.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",HAM,Lewis HAMILTON,mercedes,Mercedes,7,5.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",SAI,Carlos SAINZ,ferrari,Ferrari,6,6.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",RUS,George RUSSELL,mercedes,Mercedes,8,7.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,8.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",OCO,Esteban OCON,alpine,Alpine,14,9.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",GAS,Pierre GASLY,alpine,Alpine,12,10.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",LAW,Liam LAWSON,alphatauri,AlphaTauri,11,11.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,9,12.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,19,13.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,18,14.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,15,15.0,Finished,0.0
+2023,19,suzuka,"Suzuka, Japan",ALB,Alexander ALBON,williams,Williams,13,,DNF,0.0
+2023,19,suzuka,"Suzuka, Japan",SAR,Logan SARGEANT,williams,Williams,20,,DNF,0.0
+2023,19,suzuka,"Suzuka, Japan",STR,Lance STROLL,aston_martin,Aston Martin,17,,DNF,0.0
+2023,19,suzuka,"Suzuka, Japan",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,5,,DNF,0.0
+2023,19,suzuka,"Suzuka, Japan",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,16,,DNF,0.0
+2023,20,lusail,"Lusail, Qatar",PIA,Oscar PIASTRI,mclaren,McLaren,1,1.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,2.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",NOR,Lando NORRIS,mclaren,McLaren,2,3.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",RUS,George RUSSELL,mercedes,Mercedes,4,4.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",HAM,Lewis HAMILTON,mercedes,Mercedes,12,5.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",SAI,Carlos SAINZ,ferrari,Ferrari,5,6.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",ALB,Alexander ALBON,williams,Williams,17,7.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",ALO,Fernando ALONSO,aston_martin,Aston Martin,9,8.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",GAS,Pierre GASLY,alpine,Alpine,11,9.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,13,10.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,18,11.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",LEC,Charles LECLERC,ferrari,Ferrari,6,12.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,19,13.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,15,14.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",STR,Lance STROLL,aston_martin,Aston Martin,16,15.0,Finished,0.0
+2023,20,lusail,"Lusail, Qatar",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,7,,DNF,0.0
+2023,20,lusail,"Lusail, Qatar",OCO,Esteban OCON,alpine,Alpine,10,,DNF,0.0
+2023,20,lusail,"Lusail, Qatar",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,8,,DNF,0.0
+2023,20,lusail,"Lusail, Qatar",SAR,Logan SARGEANT,williams,Williams,20,,DNF,0.0
+2023,20,lusail,"Lusail, Qatar",LAW,Liam LAWSON,alphatauri,AlphaTauri,14,,DNF,0.0
+2023,21,lusail,"Lusail, Qatar",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",PIA,Oscar PIASTRI,mclaren,McLaren,6,2.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",NOR,Lando NORRIS,mclaren,McLaren,10,3.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",RUS,George RUSSELL,mercedes,Mercedes,2,4.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",LEC,Charles LECLERC,ferrari,Ferrari,5,5.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",ALO,Fernando ALONSO,aston_martin,Aston Martin,4,6.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",OCO,Esteban OCON,alpine,Alpine,8,7.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,9,8.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,19,9.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,20,10.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",STR,Lance STROLL,aston_martin,Aston Martin,16,11.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",GAS,Pierre GASLY,alpine,Alpine,7,12.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",ALB,Alexander ALBON,williams,Williams,13,13.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,18,14.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,11,15.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,14,16.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",LAW,Liam LAWSON,alphatauri,AlphaTauri,17,17.0,Finished,0.0
+2023,21,lusail,"Lusail, Qatar",SAR,Logan SARGEANT,williams,Williams,15,,DNF,0.0
+2023,21,lusail,"Lusail, Qatar",HAM,Lewis HAMILTON,mercedes,Mercedes,3,,DNF,0.0
+2023,21,lusail,"Lusail, Qatar",SAI,Carlos SAINZ,ferrari,Ferrari,12,,DNS,0.0
+2023,22,austin,"Austin, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,22,austin,"Austin, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,3,2.0,Finished,0.0
+2023,22,austin,"Austin, United States",LEC,Charles LECLERC,ferrari,Ferrari,2,3.0,Finished,0.0
+2023,22,austin,"Austin, United States",NOR,Lando NORRIS,mclaren,McLaren,4,4.0,Finished,0.0
+2023,22,austin,"Austin, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,7,5.0,Finished,0.0
+2023,22,austin,"Austin, United States",SAI,Carlos SAINZ,ferrari,Ferrari,6,6.0,Finished,0.0
+2023,22,austin,"Austin, United States",GAS,Pierre GASLY,alpine,Alpine,9,7.0,Finished,0.0
+2023,22,austin,"Austin, United States",RUS,George RUSSELL,mercedes,Mercedes,11,8.0,Finished,0.0
+2023,22,austin,"Austin, United States",ALB,Alexander ALBON,williams,Williams,8,9.0,Finished,0.0
+2023,22,austin,"Austin, United States",PIA,Oscar PIASTRI,mclaren,McLaren,5,10.0,Finished,0.0
+2023,22,austin,"Austin, United States",OCO,Esteban OCON,alpine,Alpine,13,11.0,Finished,0.0
+2023,22,austin,"Austin, United States",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,10,12.0,Finished,0.0
+2023,22,austin,"Austin, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,12,13.0,Finished,0.0
+2023,22,austin,"Austin, United States",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,19,14.0,Finished,0.0
+2023,22,austin,"Austin, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,16,15.0,Finished,0.0
+2023,22,austin,"Austin, United States",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,18,16.0,Finished,0.0
+2023,22,austin,"Austin, United States",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,15,17.0,Finished,0.0
+2023,22,austin,"Austin, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,18.0,Finished,0.0
+2023,22,austin,"Austin, United States",SAR,Logan SARGEANT,williams,Williams,20,19.0,Finished,0.0
+2023,22,austin,"Austin, United States",STR,Lance STROLL,aston_martin,Aston Martin,14,,DNF,0.0
+2023,23,austin,"Austin, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,6,1.0,Finished,0.0
+2023,23,austin,"Austin, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,3,,Finished,0.0
+2023,23,austin,"Austin, United States",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2023,23,austin,"Austin, United States",SAI,Carlos SAINZ,ferrari,Ferrari,4,3.0,Finished,0.0
+2023,23,austin,"Austin, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,9,4.0,Finished,0.0
+2023,23,austin,"Austin, United States",LEC,Charles LECLERC,ferrari,Ferrari,1,,Finished,0.0
+2023,23,austin,"Austin, United States",RUS,George RUSSELL,mercedes,Mercedes,5,5.0,Finished,0.0
+2023,23,austin,"Austin, United States",GAS,Pierre GASLY,alpine,Alpine,7,6.0,Finished,0.0
+2023,23,austin,"Austin, United States",STR,Lance STROLL,aston_martin,Aston Martin,20,7.0,Finished,0.0
+2023,23,austin,"Austin, United States",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,11,8.0,Finished,0.0
+2023,23,austin,"Austin, United States",ALB,Alexander ALBON,williams,Williams,15,9.0,Finished,0.0
+2023,23,austin,"Austin, United States",SAR,Logan SARGEANT,williams,Williams,16,10.0,Finished,0.0
+2023,23,austin,"Austin, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,18,11.0,Finished,0.0
+2023,23,austin,"Austin, United States",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,13,12.0,Finished,0.0
+2023,23,austin,"Austin, United States",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,12,13.0,Finished,0.0
+2023,23,austin,"Austin, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,14.0,Finished,0.0
+2023,23,austin,"Austin, United States",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,14,15.0,Finished,0.0
+2023,23,austin,"Austin, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,19,,DNF,0.0
+2023,23,austin,"Austin, United States",PIA,Oscar PIASTRI,mclaren,McLaren,10,,DNF,0.0
+2023,23,austin,"Austin, United States",OCO,Esteban OCON,alpine,Alpine,8,,DNF,0.0
+2023,24,mexico_city,"Mexico City, Mexico",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,1.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",HAM,Lewis HAMILTON,mercedes,Mercedes,6,2.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",LEC,Charles LECLERC,ferrari,Ferrari,1,3.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",SAI,Carlos SAINZ,ferrari,Ferrari,2,4.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",NOR,Lando NORRIS,mclaren,McLaren,17,5.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",RUS,George RUSSELL,mercedes,Mercedes,8,6.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,4,7.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",PIA,Oscar PIASTRI,mclaren,McLaren,7,8.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",ALB,Alexander ALBON,williams,Williams,14,9.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",OCO,Esteban OCON,alpine,Alpine,15,10.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",GAS,Pierre GASLY,alpine,Alpine,11,11.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,18,12.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,13.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,10,14.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,9,15.0,Finished,0.0
+2023,24,mexico_city,"Mexico City, Mexico",SAR,Logan SARGEANT,williams,Williams,19,16.0,DNF,0.0
+2023,24,mexico_city,"Mexico City, Mexico",STR,Lance STROLL,aston_martin,Aston Martin,20,17.0,DNF,0.0
+2023,24,mexico_city,"Mexico City, Mexico",ALO,Fernando ALONSO,aston_martin,Aston Martin,13,,DNF,0.0
+2023,24,mexico_city,"Mexico City, Mexico",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,16,,DNF,0.0
+2023,24,mexico_city,"Mexico City, Mexico",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,5,,DNF,0.0
+2023,25,interlagos,"Interlagos, Brazil",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",NOR,Lando NORRIS,mclaren,McLaren,1,2.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,3,3.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",RUS,George RUSSELL,mercedes,Mercedes,4,4.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",LEC,Charles LECLERC,ferrari,Ferrari,7,5.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,6,6.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",HAM,Lewis HAMILTON,mercedes,Mercedes,5,7.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",SAI,Carlos SAINZ,ferrari,Ferrari,9,8.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,8,9.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",PIA,Oscar PIASTRI,mclaren,McLaren,10,10.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",ALO,Fernando ALONSO,aston_martin,Aston Martin,15,11.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",STR,Lance STROLL,aston_martin,Aston Martin,17,12.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",GAS,Pierre GASLY,alpine,Alpine,13,13.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",OCO,Esteban OCON,alpine,Alpine,16,14.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",ALB,Alexander ALBON,williams,Williams,19,15.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,11,16.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,18,17.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,18.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,14,19.0,Finished,0.0
+2023,25,interlagos,"Interlagos, Brazil",SAR,Logan SARGEANT,williams,Williams,20,20.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",NOR,Lando NORRIS,mclaren,McLaren,6,2.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",ALO,Fernando ALONSO,aston_martin,Aston Martin,4,3.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,9,4.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",STR,Lance STROLL,aston_martin,Aston Martin,3,5.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",SAI,Carlos SAINZ,ferrari,Ferrari,7,6.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",GAS,Pierre GASLY,alpine,Alpine,15,7.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",HAM,Lewis HAMILTON,mercedes,Mercedes,5,8.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,16,9.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",OCO,Esteban OCON,alpine,Alpine,14,10.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",SAR,Logan SARGEANT,williams,Williams,19,11.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,11,12.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,17,13.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",PIA,Oscar PIASTRI,mclaren,McLaren,10,14.0,Finished,0.0
+2023,26,interlagos,"Interlagos, Brazil",RUS,George RUSSELL,mercedes,Mercedes,8,,DNF,0.0
+2023,26,interlagos,"Interlagos, Brazil",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,18,,DNF,0.0
+2023,26,interlagos,"Interlagos, Brazil",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,20,,DNF,0.0
+2023,26,interlagos,"Interlagos, Brazil",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,12,,DNF,0.0
+2023,26,interlagos,"Interlagos, Brazil",ALB,Alexander ALBON,williams,Williams,13,,DNF,0.0
+2023,26,interlagos,"Interlagos, Brazil",LEC,Charles LECLERC,ferrari,Ferrari,2,,DNS,0.0
+2023,27,las_vegas,"Las Vegas, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",LEC,Charles LECLERC,ferrari,Ferrari,1,2.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,11,3.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",OCO,Esteban OCON,alpine,Alpine,16,4.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",STR,Lance STROLL,aston_martin,Aston Martin,19,5.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",SAI,Carlos SAINZ,ferrari,Ferrari,12,6.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,10,7.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",RUS,George RUSSELL,mercedes,Mercedes,3,8.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,9,9.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",PIA,Oscar PIASTRI,mclaren,McLaren,18,10.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",GAS,Pierre GASLY,alpine,Alpine,4,11.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",ALB,Alexander ALBON,williams,Williams,5,12.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,8,13.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,14,14.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,17,15.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",SAR,Logan SARGEANT,williams,Williams,6,16.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,7,17.0,Finished,0.0
+2023,27,las_vegas,"Las Vegas, United States",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,20,18.0,DNF,0.0
+2023,27,las_vegas,"Las Vegas, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,13,19.0,DNF,0.0
+2023,27,las_vegas,"Las Vegas, United States",NOR,Lando NORRIS,mclaren,McLaren,15,,DNF,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",LEC,Charles LECLERC,ferrari,Ferrari,2,2.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",RUS,George RUSSELL,mercedes,Mercedes,4,3.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,9,4.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",NOR,Lando NORRIS,mclaren,McLaren,5,5.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",PIA,Oscar PIASTRI,mclaren,McLaren,3,6.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,7.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",TSU,Yuki TSUNODA,alphatauri,AlphaTauri,6,8.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",HAM,Lewis HAMILTON,mercedes,Mercedes,11,9.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",STR,Lance STROLL,aston_martin,Aston Martin,13,10.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",RIC,Daniel RICCIARDO,alphatauri,AlphaTauri,15,11.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",OCO,Esteban OCON,alpine,Alpine,12,12.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",GAS,Pierre GASLY,alpine,Alpine,10,13.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ALB,Alexander ALBON,williams,Williams,14,14.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,8,15.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",SAR,Logan SARGEANT,williams,Williams,20,16.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ZHO,ZHOU Guanyu,alfa_romeo,Alfa Romeo,19,17.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",SAI,Carlos SAINZ,ferrari,Ferrari,16,18.0,DNF,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",BOT,Valtteri BOTTAS,alfa_romeo,Alfa Romeo,18,19.0,Finished,0.0
+2023,28,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,20.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,5,2.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",SAI,Carlos SAINZ,ferrari,Ferrari,4,3.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",LEC,Charles LECLERC,ferrari,Ferrari,2,4.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",RUS,George RUSSELL,mercedes,Mercedes,3,5.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",NOR,Lando NORRIS,mclaren,McLaren,7,6.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",HAM,Lewis HAMILTON,mercedes,Mercedes,9,7.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",PIA,Oscar PIASTRI,mclaren,McLaren,8,8.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,9.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",STR,Lance STROLL,aston_martin,Aston Martin,12,10.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,17,11.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,15,12.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",RIC,Daniel RICCIARDO,rb,RB,14,13.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",TSU,Yuki TSUNODA,rb,RB,11,14.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",ALB,Alexander ALBON,williams,Williams,13,15.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,16.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",OCO,Esteban OCON,alpine,Alpine,19,17.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",GAS,Pierre GASLY,alpine,Alpine,20,18.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,19.0,Finished,0.0
+2024,1,sakhir,"Sakhir, Bahrain",SAR,Logan SARGEANT,williams,Williams,18,20.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,3,2.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",LEC,Charles LECLERC,ferrari,Ferrari,2,3.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",PIA,Oscar PIASTRI,mclaren,McLaren,5,4.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",ALO,Fernando ALONSO,aston_martin,Aston Martin,4,5.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",RUS,George RUSSELL,mercedes,Mercedes,7,6.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",BEA,Oliver BEARMAN,ferrari,Ferrari,11,7.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",NOR,Lando NORRIS,mclaren,McLaren,6,8.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",HAM,Lewis HAMILTON,mercedes,Mercedes,8,9.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,15,10.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",ALB,Alexander ALBON,williams,Williams,12,11.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,13,12.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",OCO,Esteban OCON,alpine,Alpine,17,13.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",SAR,Logan SARGEANT,williams,Williams,19,14.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",TSU,Yuki TSUNODA,rb,RB,9,15.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",RIC,Daniel RICCIARDO,rb,RB,14,16.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,17.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,20,18.0,Finished,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",STR,Lance STROLL,aston_martin,Aston Martin,10,,DNF,0.0
+2024,2,jeddah,"Jeddah, Saudi Arabia",GAS,Pierre GASLY,alpine,Alpine,18,,DNF,0.0
+2024,3,melbourne,"Melbourne, Australia",SAI,Carlos SAINZ,ferrari,Ferrari,2,1.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",LEC,Charles LECLERC,ferrari,Ferrari,4,2.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",NOR,Lando NORRIS,mclaren,McLaren,3,3.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",PIA,Oscar PIASTRI,mclaren,McLaren,5,4.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,6,5.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",STR,Lance STROLL,aston_martin,Aston Martin,9,6.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",TSU,Yuki TSUNODA,rb,RB,8,7.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,8.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,16,9.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,14,10.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",ALB,Alexander ALBON,williams,Williams,12,11.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",RIC,Daniel RICCIARDO,rb,RB,18,12.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",GAS,Pierre GASLY,alpine,Alpine,17,13.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,13,14.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,19,15.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",OCO,Esteban OCON,alpine,Alpine,15,16.0,Finished,0.0
+2024,3,melbourne,"Melbourne, Australia",RUS,George RUSSELL,mercedes,Mercedes,7,17.0,DNF,0.0
+2024,3,melbourne,"Melbourne, Australia",HAM,Lewis HAMILTON,mercedes,Mercedes,11,,DNF,0.0
+2024,3,melbourne,"Melbourne, Australia",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,,DNF,0.0
+2024,4,suzuka,"Suzuka, Japan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",SAI,Carlos SAINZ,ferrari,Ferrari,4,3.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",LEC,Charles LECLERC,ferrari,Ferrari,8,4.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",NOR,Lando NORRIS,mclaren,McLaren,3,5.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",ALO,Fernando ALONSO,aston_martin,Aston Martin,5,6.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",RUS,George RUSSELL,mercedes,Mercedes,9,7.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",PIA,Oscar PIASTRI,mclaren,McLaren,6,8.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",HAM,Lewis HAMILTON,mercedes,Mercedes,7,9.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",TSU,Yuki TSUNODA,rb,RB,10,10.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,11.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",STR,Lance STROLL,aston_martin,Aston Martin,16,12.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,18,13.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,13,14.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",OCO,Esteban OCON,alpine,Alpine,15,15.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",GAS,Pierre GASLY,alpine,Alpine,17,16.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",SAR,Logan SARGEANT,williams,Williams,19,17.0,Finished,0.0
+2024,4,suzuka,"Suzuka, Japan",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,20,,DNF,0.0
+2024,4,suzuka,"Suzuka, Japan",RIC,Daniel RICCIARDO,rb,RB,11,,DNF,0.0
+2024,4,suzuka,"Suzuka, Japan",ALB,Alexander ALBON,williams,Williams,14,,DNF,0.0
+2024,5,shanghai,"Shanghai, China",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,1.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",HAM,Lewis HAMILTON,mercedes,Mercedes,2,2.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,6,3.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",LEC,Charles LECLERC,ferrari,Ferrari,7,4.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",SAI,Carlos SAINZ,ferrari,Ferrari,5,5.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",NOR,Lando NORRIS,mclaren,McLaren,1,6.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",PIA,Oscar PIASTRI,mclaren,McLaren,8,7.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",RUS,George RUSSELL,mercedes,Mercedes,11,8.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,10,9.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,12,10.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",RIC,Daniel RICCIARDO,rb,RB,14,11.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,9,12.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",OCO,Esteban OCON,alpine,Alpine,17,13.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",STR,Lance STROLL,aston_martin,Aston Martin,15,14.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",GAS,Pierre GASLY,alpine,Alpine,16,15.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",TSU,Yuki TSUNODA,rb,RB,19,16.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",ALB,Alexander ALBON,williams,Williams,18,17.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",SAR,Logan SARGEANT,williams,Williams,20,18.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,13,19.0,Finished,0.0
+2024,5,shanghai,"Shanghai, China",ALO,Fernando ALONSO,aston_martin,Aston Martin,3,20.0,DNF,0.0
+2024,6,shanghai,"Shanghai, China",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",NOR,Lando NORRIS,mclaren,McLaren,4,2.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,2,3.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",LEC,Charles LECLERC,ferrari,Ferrari,6,4.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",SAI,Carlos SAINZ,ferrari,Ferrari,7,5.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",RUS,George RUSSELL,mercedes,Mercedes,8,6.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",ALO,Fernando ALONSO,aston_martin,Aston Martin,3,7.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",PIA,Oscar PIASTRI,mclaren,McLaren,5,8.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",HAM,Lewis HAMILTON,mercedes,Mercedes,18,9.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,9,10.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",OCO,Esteban OCON,alpine,Alpine,13,11.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",ALB,Alexander ALBON,williams,Williams,14,12.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",GAS,Pierre GASLY,alpine,Alpine,15,13.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,16,14.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",STR,Lance STROLL,aston_martin,Aston Martin,11,15.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,16.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",SAR,Logan SARGEANT,williams,Williams,20,17.0,Finished,0.0
+2024,6,shanghai,"Shanghai, China",RIC,Daniel RICCIARDO,rb,RB,12,,DNF,0.0
+2024,6,shanghai,"Shanghai, China",TSU,Yuki TSUNODA,rb,RB,19,,DNF,0.0
+2024,6,shanghai,"Shanghai, China",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,10,,DNF,0.0
+2024,7,miami,"Miami, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,7,miami,"Miami, United States",LEC,Charles LECLERC,ferrari,Ferrari,2,2.0,Finished,0.0
+2024,7,miami,"Miami, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,3,3.0,Finished,0.0
+2024,7,miami,"Miami, United States",RIC,Daniel RICCIARDO,rb,RB,4,4.0,Finished,0.0
+2024,7,miami,"Miami, United States",SAI,Carlos SAINZ,ferrari,Ferrari,5,5.0,Finished,0.0
+2024,7,miami,"Miami, United States",PIA,Oscar PIASTRI,mclaren,McLaren,6,6.0,Finished,0.0
+2024,7,miami,"Miami, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,7.0,Finished,0.0
+2024,7,miami,"Miami, United States",TSU,Yuki TSUNODA,rb,RB,15,8.0,Finished,0.0
+2024,7,miami,"Miami, United States",GAS,Pierre GASLY,alpine,Alpine,16,9.0,Finished,0.0
+2024,7,miami,"Miami, United States",SAR,Logan SARGEANT,williams,Williams,18,10.0,Finished,0.0
+2024,7,miami,"Miami, United States",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,17,11.0,Finished,0.0
+2024,7,miami,"Miami, United States",RUS,George RUSSELL,mercedes,Mercedes,11,12.0,Finished,0.0
+2024,7,miami,"Miami, United States",ALB,Alexander ALBON,williams,Williams,20,13.0,Finished,0.0
+2024,7,miami,"Miami, United States",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,19,14.0,Finished,0.0
+2024,7,miami,"Miami, United States",OCO,Esteban OCON,alpine,Alpine,13,15.0,Finished,0.0
+2024,7,miami,"Miami, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,12,16.0,Finished,0.0
+2024,7,miami,"Miami, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,17.0,Finished,0.0
+2024,7,miami,"Miami, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,14,18.0,Finished,0.0
+2024,7,miami,"Miami, United States",STR,Lance STROLL,aston_martin,Aston Martin,7,,DNF,0.0
+2024,7,miami,"Miami, United States",NOR,Lando NORRIS,mclaren,McLaren,9,,DNF,0.0
+2024,8,miami,"Miami, United States",NOR,Lando NORRIS,mclaren,McLaren,5,1.0,Finished,0.0
+2024,8,miami,"Miami, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,2.0,Finished,0.0
+2024,8,miami,"Miami, United States",LEC,Charles LECLERC,ferrari,Ferrari,2,3.0,Finished,0.0
+2024,8,miami,"Miami, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,4,4.0,Finished,0.0
+2024,8,miami,"Miami, United States",SAI,Carlos SAINZ,ferrari,Ferrari,3,5.0,Finished,0.0
+2024,8,miami,"Miami, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,8,6.0,Finished,0.0
+2024,8,miami,"Miami, United States",TSU,Yuki TSUNODA,rb,RB,10,7.0,Finished,0.0
+2024,8,miami,"Miami, United States",RUS,George RUSSELL,mercedes,Mercedes,7,8.0,Finished,0.0
+2024,8,miami,"Miami, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,15,9.0,Finished,0.0
+2024,8,miami,"Miami, United States",OCO,Esteban OCON,alpine,Alpine,13,10.0,Finished,0.0
+2024,8,miami,"Miami, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,9,11.0,Finished,0.0
+2024,8,miami,"Miami, United States",GAS,Pierre GASLY,alpine,Alpine,12,12.0,Finished,0.0
+2024,8,miami,"Miami, United States",PIA,Oscar PIASTRI,mclaren,McLaren,6,13.0,Finished,0.0
+2024,8,miami,"Miami, United States",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,19,14.0,Finished,0.0
+2024,8,miami,"Miami, United States",RIC,Daniel RICCIARDO,rb,RB,20,15.0,Finished,0.0
+2024,8,miami,"Miami, United States",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,16.0,Finished,0.0
+2024,8,miami,"Miami, United States",STR,Lance STROLL,aston_martin,Aston Martin,11,17.0,Finished,0.0
+2024,8,miami,"Miami, United States",ALB,Alexander ALBON,williams,Williams,14,18.0,Finished,0.0
+2024,8,miami,"Miami, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,18,19.0,Finished,0.0
+2024,8,miami,"Miami, United States",SAR,Logan SARGEANT,williams,Williams,17,,DNF,0.0
+2024,9,imola,"Imola, Italy",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,9,imola,"Imola, Italy",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2024,9,imola,"Imola, Italy",LEC,Charles LECLERC,ferrari,Ferrari,3,3.0,Finished,0.0
+2024,9,imola,"Imola, Italy",PIA,Oscar PIASTRI,mclaren,McLaren,5,4.0,Finished,0.0
+2024,9,imola,"Imola, Italy",SAI,Carlos SAINZ,ferrari,Ferrari,4,5.0,Finished,0.0
+2024,9,imola,"Imola, Italy",HAM,Lewis HAMILTON,mercedes,Mercedes,8,6.0,Finished,0.0
+2024,9,imola,"Imola, Italy",RUS,George RUSSELL,mercedes,Mercedes,6,7.0,Finished,0.0
+2024,9,imola,"Imola, Italy",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,11,8.0,Finished,0.0
+2024,9,imola,"Imola, Italy",STR,Lance STROLL,aston_martin,Aston Martin,13,9.0,Finished,0.0
+2024,9,imola,"Imola, Italy",TSU,Yuki TSUNODA,rb,RB,7,10.0,Finished,0.0
+2024,9,imola,"Imola, Italy",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,11.0,Finished,0.0
+2024,9,imola,"Imola, Italy",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,18,12.0,Finished,0.0
+2024,9,imola,"Imola, Italy",RIC,Daniel RICCIARDO,rb,RB,9,13.0,Finished,0.0
+2024,9,imola,"Imola, Italy",OCO,Esteban OCON,alpine,Alpine,12,14.0,Finished,0.0
+2024,9,imola,"Imola, Italy",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,17,15.0,Finished,0.0
+2024,9,imola,"Imola, Italy",GAS,Pierre GASLY,alpine,Alpine,15,16.0,Finished,0.0
+2024,9,imola,"Imola, Italy",SAR,Logan SARGEANT,williams,Williams,19,17.0,Finished,0.0
+2024,9,imola,"Imola, Italy",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,18.0,Finished,0.0
+2024,9,imola,"Imola, Italy",ALO,Fernando ALONSO,aston_martin,Aston Martin,20,19.0,Finished,0.0
+2024,9,imola,"Imola, Italy",ALB,Alexander ALBON,williams,Williams,14,,DNF,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",LEC,Charles LECLERC,ferrari,Ferrari,1,1.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",PIA,Oscar PIASTRI,mclaren,McLaren,2,2.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",SAI,Carlos SAINZ,ferrari,Ferrari,3,3.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",NOR,Lando NORRIS,mclaren,McLaren,4,4.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",RUS,George RUSSELL,mercedes,Mercedes,5,5.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,6,6.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",HAM,Lewis HAMILTON,mercedes,Mercedes,7,7.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",TSU,Yuki TSUNODA,rb,RB,8,8.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",ALB,Alexander ALBON,williams,Williams,9,9.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",GAS,Pierre GASLY,alpine,Alpine,10,10.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",ALO,Fernando ALONSO,aston_martin,Aston Martin,14,11.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",RIC,Daniel RICCIARDO,rb,RB,12,12.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,17,13.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",STR,Lance STROLL,aston_martin,Aston Martin,13,14.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",SAR,Logan SARGEANT,williams,Williams,15,15.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,18,16.0,Finished,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",OCO,Esteban OCON,alpine,Alpine,11,,DNF,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,16,,DNF,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,19,,DNF,0.0
+2024,10,monte_carlo,"Monte Carlo, Monaco",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,20,,DNF,0.0
+2024,11,montreal,"Montreal, Canada",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",NOR,Lando NORRIS,mclaren,McLaren,3,2.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",RUS,George RUSSELL,mercedes,Mercedes,1,3.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",HAM,Lewis HAMILTON,mercedes,Mercedes,7,4.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",PIA,Oscar PIASTRI,mclaren,McLaren,4,5.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,6.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",STR,Lance STROLL,aston_martin,Aston Martin,9,7.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",RIC,Daniel RICCIARDO,rb,RB,5,8.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",GAS,Pierre GASLY,alpine,Alpine,15,9.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",OCO,Esteban OCON,alpine,Alpine,18,10.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,17,11.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,14,12.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,19,13.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",TSU,Yuki TSUNODA,rb,RB,8,14.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,20,15.0,Finished,0.0
+2024,11,montreal,"Montreal, Canada",SAI,Carlos SAINZ,ferrari,Ferrari,12,,DNF,0.0
+2024,11,montreal,"Montreal, Canada",ALB,Alexander ALBON,williams,Williams,10,,DNF,0.0
+2024,11,montreal,"Montreal, Canada",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,16,,DNF,0.0
+2024,11,montreal,"Montreal, Canada",LEC,Charles LECLERC,ferrari,Ferrari,11,,DNF,0.0
+2024,11,montreal,"Montreal, Canada",SAR,Logan SARGEANT,williams,Williams,13,,DNF,0.0
+2024,12,catalunya,"Catalunya, Spain",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",NOR,Lando NORRIS,mclaren,McLaren,1,2.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",HAM,Lewis HAMILTON,mercedes,Mercedes,3,3.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",RUS,George RUSSELL,mercedes,Mercedes,4,4.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",LEC,Charles LECLERC,ferrari,Ferrari,5,5.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",SAI,Carlos SAINZ,ferrari,Ferrari,6,6.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",PIA,Oscar PIASTRI,mclaren,McLaren,9,7.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,11,8.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",GAS,Pierre GASLY,alpine,Alpine,7,9.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",OCO,Esteban OCON,alpine,Alpine,8,10.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,13,11.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,12.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,15,13.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",STR,Lance STROLL,aston_martin,Aston Martin,14,14.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",RIC,Daniel RICCIARDO,rb,RB,18,15.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,12,16.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,16,17.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",ALB,Alexander ALBON,williams,Williams,20,18.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",TSU,Yuki TSUNODA,rb,RB,17,19.0,Finished,0.0
+2024,12,catalunya,"Catalunya, Spain",SAR,Logan SARGEANT,williams,Williams,19,20.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",PIA,Oscar PIASTRI,mclaren,McLaren,3,2.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",NOR,Lando NORRIS,mclaren,McLaren,2,3.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",RUS,George RUSSELL,mercedes,Mercedes,4,4.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",SAI,Carlos SAINZ,ferrari,Ferrari,5,5.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",HAM,Lewis HAMILTON,mercedes,Mercedes,6,6.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",LEC,Charles LECLERC,ferrari,Ferrari,10,7.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,7,8.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,11,9.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",STR,Lance STROLL,aston_martin,Aston Martin,12,10.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",OCO,Esteban OCON,alpine,Alpine,8,11.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",GAS,Pierre GASLY,alpine,Alpine,9,12.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",TSU,Yuki TSUNODA,rb,RB,14,13.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",RIC,Daniel RICCIARDO,rb,RB,16,14.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",ALO,Fernando ALONSO,aston_martin,Aston Martin,13,15.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",SAR,Logan SARGEANT,williams,Williams,15,16.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",ALB,Alexander ALBON,williams,Williams,20,17.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,18,18.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,17,19.0,Finished,0.0
+2024,13,spielberg,"Spielberg, Austria",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,19,20.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",RUS,George RUSSELL,mercedes,Mercedes,3,1.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",PIA,Oscar PIASTRI,mclaren,McLaren,7,2.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",SAI,Carlos SAINZ,ferrari,Ferrari,4,3.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",HAM,Lewis HAMILTON,mercedes,Mercedes,5,4.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,5.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,9,6.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,8,7.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,12,8.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",RIC,Daniel RICCIARDO,rb,RB,11,9.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",GAS,Pierre GASLY,alpine,Alpine,13,10.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",LEC,Charles LECLERC,ferrari,Ferrari,6,11.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",OCO,Esteban OCON,alpine,Alpine,10,12.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",STR,Lance STROLL,aston_martin,Aston Martin,17,13.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",TSU,Yuki TSUNODA,rb,RB,14,14.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",ALB,Alexander ALBON,williams,Williams,16,15.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,18,16.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,20,17.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",ALO,Fernando ALONSO,aston_martin,Aston Martin,15,18.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",SAR,Logan SARGEANT,williams,Williams,19,19.0,Finished,0.0
+2024,14,spielberg,"Spielberg, Austria",NOR,Lando NORRIS,mclaren,McLaren,2,20.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",HAM,Lewis HAMILTON,mercedes,Mercedes,2,1.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,2.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",NOR,Lando NORRIS,mclaren,McLaren,3,3.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",PIA,Oscar PIASTRI,mclaren,McLaren,5,4.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",SAI,Carlos SAINZ,ferrari,Ferrari,7,5.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,6,6.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",STR,Lance STROLL,aston_martin,Aston Martin,8,7.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,8.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",ALB,Alexander ALBON,williams,Williams,9,9.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",TSU,Yuki TSUNODA,rb,RB,13,10.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",SAR,Logan SARGEANT,williams,Williams,12,11.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,12.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",RIC,Daniel RICCIARDO,rb,RB,15,13.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",LEC,Charles LECLERC,ferrari,Ferrari,11,14.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,15.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",OCO,Esteban OCON,alpine,Alpine,18,16.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,20,17.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,14,18.0,Finished,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",RUS,George RUSSELL,mercedes,Mercedes,1,,DNF,0.0
+2024,15,silverstone,"Silverstone, United Kingdom",GAS,Pierre GASLY,alpine,Alpine,19,,DNS,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",PIA,Oscar PIASTRI,mclaren,McLaren,2,1.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",NOR,Lando NORRIS,mclaren,McLaren,1,2.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",HAM,Lewis HAMILTON,mercedes,Mercedes,5,3.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",LEC,Charles LECLERC,ferrari,Ferrari,6,4.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,5.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",SAI,Carlos SAINZ,ferrari,Ferrari,4,6.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,16,7.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",RUS,George RUSSELL,mercedes,Mercedes,17,8.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",TSU,Yuki TSUNODA,rb,RB,10,9.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",STR,Lance STROLL,aston_martin,Aston Martin,8,10.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,11.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",RIC,Daniel RICCIARDO,rb,RB,9,12.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,11,13.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",ALB,Alexander ALBON,williams,Williams,13,14.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,15,15.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,12,16.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",SAR,Logan SARGEANT,williams,Williams,14,17.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",OCO,Esteban OCON,alpine,Alpine,19,18.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,18,19.0,Finished,0.0
+2024,16,hungaroring,"Hungaroring, Hungary",GAS,Pierre GASLY,alpine,Alpine,20,,DNF,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",HAM,Lewis HAMILTON,mercedes,Mercedes,3,1.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",PIA,Oscar PIASTRI,mclaren,McLaren,5,2.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",LEC,Charles LECLERC,ferrari,Ferrari,1,3.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,11,4.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",NOR,Lando NORRIS,mclaren,McLaren,4,5.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",SAI,Carlos SAINZ,ferrari,Ferrari,7,6.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,2,7.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,8.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",OCO,Esteban OCON,alpine,Alpine,9,9.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",RIC,Daniel RICCIARDO,rb,RB,13,10.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",STR,Lance STROLL,aston_martin,Aston Martin,15,11.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",ALB,Alexander ALBON,williams,Williams,10,12.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",GAS,Pierre GASLY,alpine,Alpine,12,13.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,17,14.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,14,15.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",TSU,Yuki TSUNODA,rb,RB,20,16.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",SAR,Logan SARGEANT,williams,Williams,18,17.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,16,18.0,Finished,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,19,,DNF,0.0
+2024,17,spa-francorchamps,"Spa-Francorchamps, Belgium",RUS,George RUSSELL,mercedes,Mercedes,6,,Disqualified,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",LEC,Charles LECLERC,ferrari,Ferrari,6,3.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",PIA,Oscar PIASTRI,mclaren,McLaren,3,4.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",SAI,Carlos SAINZ,ferrari,Ferrari,10,5.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,5,6.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",RUS,George RUSSELL,mercedes,Mercedes,4,7.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",HAM,Lewis HAMILTON,mercedes,Mercedes,14,8.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",GAS,Pierre GASLY,alpine,Alpine,9,9.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,10.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,11.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",RIC,Daniel RICCIARDO,rb,RB,13,12.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",STR,Lance STROLL,aston_martin,Aston Martin,8,13.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",ALB,Alexander ALBON,williams,Williams,19,14.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",OCO,Esteban OCON,alpine,Alpine,15,15.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",SAR,Logan SARGEANT,williams,Williams,18,16.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",TSU,Yuki TSUNODA,rb,RB,11,17.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,20,18.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,19.0,Finished,0.0
+2024,18,zandvoort,"Zandvoort, Netherlands",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,17,20.0,Finished,0.0
+2024,19,monza,"Monza, Italy",LEC,Charles LECLERC,ferrari,Ferrari,4,1.0,Finished,0.0
+2024,19,monza,"Monza, Italy",PIA,Oscar PIASTRI,mclaren,McLaren,2,2.0,Finished,0.0
+2024,19,monza,"Monza, Italy",NOR,Lando NORRIS,mclaren,McLaren,1,3.0,Finished,0.0
+2024,19,monza,"Monza, Italy",SAI,Carlos SAINZ,ferrari,Ferrari,5,4.0,Finished,0.0
+2024,19,monza,"Monza, Italy",HAM,Lewis HAMILTON,mercedes,Mercedes,6,5.0,Finished,0.0
+2024,19,monza,"Monza, Italy",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,7,6.0,Finished,0.0
+2024,19,monza,"Monza, Italy",RUS,George RUSSELL,mercedes,Mercedes,3,7.0,Finished,0.0
+2024,19,monza,"Monza, Italy",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,8,8.0,Finished,0.0
+2024,19,monza,"Monza, Italy",ALB,Alexander ALBON,williams,Williams,9,9.0,Finished,0.0
+2024,19,monza,"Monza, Italy",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,13,10.0,Finished,0.0
+2024,19,monza,"Monza, Italy",ALO,Fernando ALONSO,aston_martin,Aston Martin,11,11.0,Finished,0.0
+2024,19,monza,"Monza, Italy",COL,Franco COLAPINTO,williams,Williams,18,12.0,Finished,0.0
+2024,19,monza,"Monza, Italy",RIC,Daniel RICCIARDO,rb,RB,12,13.0,Finished,0.0
+2024,19,monza,"Monza, Italy",OCO,Esteban OCON,alpine,Alpine,15,14.0,Finished,0.0
+2024,19,monza,"Monza, Italy",GAS,Pierre GASLY,alpine,Alpine,14,15.0,Finished,0.0
+2024,19,monza,"Monza, Italy",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,19,16.0,Finished,0.0
+2024,19,monza,"Monza, Italy",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,17.0,Finished,0.0
+2024,19,monza,"Monza, Italy",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,20,18.0,Finished,0.0
+2024,19,monza,"Monza, Italy",STR,Lance STROLL,aston_martin,Aston Martin,17,19.0,Finished,0.0
+2024,19,monza,"Monza, Italy",TSU,Yuki TSUNODA,rb,RB,16,,DNF,0.0
+2024,20,baku,"Baku, Azerbaijan",PIA,Oscar PIASTRI,mclaren,McLaren,2,1.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",LEC,Charles LECLERC,ferrari,Ferrari,1,2.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",RUS,George RUSSELL,mercedes,Mercedes,5,3.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",NOR,Lando NORRIS,mclaren,McLaren,15,4.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,6,5.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,6.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",ALB,Alexander ALBON,williams,Williams,9,7.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",COL,Franco COLAPINTO,williams,Williams,8,8.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",HAM,Lewis HAMILTON,mercedes,Mercedes,19,9.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,10,10.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,11.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",GAS,Pierre GASLY,alpine,Alpine,18,12.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",RIC,Daniel RICCIARDO,rb,RB,14,13.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,17,14.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",OCO,Esteban OCON,alpine,Alpine,20,15.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,16.0,Finished,0.0
+2024,20,baku,"Baku, Azerbaijan",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,4,17.0,DNF,0.0
+2024,20,baku,"Baku, Azerbaijan",SAI,Carlos SAINZ,ferrari,Ferrari,3,18.0,DNF,0.0
+2024,20,baku,"Baku, Azerbaijan",STR,Lance STROLL,aston_martin,Aston Martin,13,19.0,DNF,0.0
+2024,20,baku,"Baku, Azerbaijan",TSU,Yuki TSUNODA,rb,RB,11,,DNF,0.0
+2024,21,singapore,"Singapore, Singapore",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",PIA,Oscar PIASTRI,mclaren,McLaren,5,3.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",RUS,George RUSSELL,mercedes,Mercedes,4,4.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",LEC,Charles LECLERC,ferrari,Ferrari,9,5.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",HAM,Lewis HAMILTON,mercedes,Mercedes,3,6.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",SAI,Carlos SAINZ,ferrari,Ferrari,10,7.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,8.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,6,9.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,13,10.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",COL,Franco COLAPINTO,williams,Williams,12,11.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",TSU,Yuki TSUNODA,rb,RB,8,12.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",OCO,Esteban OCON,alpine,Alpine,15,13.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",STR,Lance STROLL,aston_martin,Aston Martin,17,14.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,20,15.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,19,16.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",GAS,Pierre GASLY,alpine,Alpine,18,17.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",RIC,Daniel RICCIARDO,rb,RB,16,18.0,Finished,0.0
+2024,21,singapore,"Singapore, Singapore",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,14,19.0,DNF,0.0
+2024,21,singapore,"Singapore, Singapore",ALB,Alexander ALBON,williams,Williams,11,,DNF,0.0
+2024,22,austin,"Austin, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2024,22,austin,"Austin, United States",SAI,Carlos SAINZ,ferrari,Ferrari,5,2.0,Finished,0.0
+2024,22,austin,"Austin, United States",NOR,Lando NORRIS,mclaren,McLaren,4,3.0,Finished,0.0
+2024,22,austin,"Austin, United States",LEC,Charles LECLERC,ferrari,Ferrari,3,4.0,Finished,0.0
+2024,22,austin,"Austin, United States",RUS,George RUSSELL,mercedes,Mercedes,2,5.0,Finished,0.0
+2024,22,austin,"Austin, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,7,6.0,Finished,0.0
+2024,22,austin,"Austin, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,8,7.0,Finished,0.0
+2024,22,austin,"Austin, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,6,8.0,Finished,0.0
+2024,22,austin,"Austin, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,11,9.0,Finished,0.0
+2024,22,austin,"Austin, United States",PIA,Oscar PIASTRI,mclaren,McLaren,16,10.0,Finished,0.0
+2024,22,austin,"Austin, United States",TSU,Yuki TSUNODA,rb,RB,9,11.0,Finished,0.0
+2024,22,austin,"Austin, United States",COL,Franco COLAPINTO,williams,Williams,10,12.0,Finished,0.0
+2024,22,austin,"Austin, United States",STR,Lance STROLL,aston_martin,Aston Martin,13,13.0,Finished,0.0
+2024,22,austin,"Austin, United States",GAS,Pierre GASLY,alpine,Alpine,12,14.0,Finished,0.0
+2024,22,austin,"Austin, United States",OCO,Esteban OCON,alpine,Alpine,17,15.0,Finished,0.0
+2024,22,austin,"Austin, United States",LAW,Liam LAWSON,rb,RB,15,16.0,Finished,0.0
+2024,22,austin,"Austin, United States",ALB,Alexander ALBON,williams,Williams,20,17.0,Finished,0.0
+2024,22,austin,"Austin, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,14,18.0,Finished,0.0
+2024,22,austin,"Austin, United States",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,19,19.0,Finished,0.0
+2024,22,austin,"Austin, United States",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,18,20.0,Finished,0.0
+2024,23,austin,"Austin, United States",LEC,Charles LECLERC,ferrari,Ferrari,4,1.0,Finished,0.0
+2024,23,austin,"Austin, United States",SAI,Carlos SAINZ,ferrari,Ferrari,3,2.0,Finished,0.0
+2024,23,austin,"Austin, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,3.0,Finished,0.0
+2024,23,austin,"Austin, United States",NOR,Lando NORRIS,mclaren,McLaren,1,4.0,Finished,0.0
+2024,23,austin,"Austin, United States",PIA,Oscar PIASTRI,mclaren,McLaren,5,5.0,Finished,0.0
+2024,23,austin,"Austin, United States",RUS,George RUSSELL,mercedes,Mercedes,20,6.0,Finished,0.0
+2024,23,austin,"Austin, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,9,7.0,Finished,0.0
+2024,23,austin,"Austin, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,11,8.0,Finished,0.0
+2024,23,austin,"Austin, United States",LAW,Liam LAWSON,rb,RB,19,9.0,Finished,0.0
+2024,23,austin,"Austin, United States",COL,Franco COLAPINTO,williams,Williams,15,10.0,Finished,0.0
+2024,23,austin,"Austin, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,8,11.0,Finished,0.0
+2024,23,austin,"Austin, United States",GAS,Pierre GASLY,alpine,Alpine,6,12.0,Finished,0.0
+2024,23,austin,"Austin, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,13.0,Finished,0.0
+2024,23,austin,"Austin, United States",TSU,Yuki TSUNODA,rb,RB,10,14.0,Finished,0.0
+2024,23,austin,"Austin, United States",STR,Lance STROLL,aston_martin,Aston Martin,13,15.0,Finished,0.0
+2024,23,austin,"Austin, United States",ALB,Alexander ALBON,williams,Williams,14,16.0,Finished,0.0
+2024,23,austin,"Austin, United States",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,16,17.0,Finished,0.0
+2024,23,austin,"Austin, United States",OCO,Esteban OCON,alpine,Alpine,12,18.0,Finished,0.0
+2024,23,austin,"Austin, United States",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,18,19.0,Finished,0.0
+2024,23,austin,"Austin, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,17,,DNF,0.0
+2024,24,mexico_city,"Mexico City, Mexico",SAI,Carlos SAINZ,ferrari,Ferrari,1,1.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",NOR,Lando NORRIS,mclaren,McLaren,3,2.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",LEC,Charles LECLERC,ferrari,Ferrari,4,3.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",HAM,Lewis HAMILTON,mercedes,Mercedes,6,4.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",RUS,George RUSSELL,mercedes,Mercedes,5,5.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,6.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,7,7.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",PIA,Oscar PIASTRI,mclaren,McLaren,17,8.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,10,9.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",GAS,Pierre GASLY,alpine,Alpine,8,10.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",STR,Lance STROLL,aston_martin,Aston Martin,14,11.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",COL,Franco COLAPINTO,williams,Williams,16,12.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",OCO,Esteban OCON,alpine,Alpine,20,13.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,15,14.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,19,15.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",LAW,Liam LAWSON,rb,RB,12,16.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,18,17.0,Finished,0.0
+2024,24,mexico_city,"Mexico City, Mexico",ALO,Fernando ALONSO,aston_martin,Aston Martin,13,,DNF,0.0
+2024,24,mexico_city,"Mexico City, Mexico",ALB,Alexander ALBON,williams,Williams,9,,DNF,0.0
+2024,24,mexico_city,"Mexico City, Mexico",TSU,Yuki TSUNODA,rb,RB,11,,DNF,0.0
+2024,25,interlagos,"Interlagos, Brazil",NOR,Lando NORRIS,mclaren,McLaren,2,1.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",PIA,Oscar PIASTRI,mclaren,McLaren,1,2.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",LEC,Charles LECLERC,ferrari,Ferrari,3,3.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,4.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",SAI,Carlos SAINZ,ferrari,Ferrari,5,5.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",RUS,George RUSSELL,mercedes,Mercedes,6,6.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",GAS,Pierre GASLY,alpine,Alpine,7,7.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,13,8.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",LAW,Liam LAWSON,rb,RB,8,9.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",ALB,Alexander ALBON,williams,Williams,9,10.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",HAM,Lewis HAMILTON,mercedes,Mercedes,11,11.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",COL,Franco COLAPINTO,williams,Williams,14,12.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",OCO,Esteban OCON,alpine,Alpine,16,13.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,10,14.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",TSU,Yuki TSUNODA,rb,RB,17,15.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,15,16.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,20,17.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",ALO,Fernando ALONSO,aston_martin,Aston Martin,18,18.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",STR,Lance STROLL,aston_martin,Aston Martin,19,19.0,Finished,0.0
+2024,25,interlagos,"Interlagos, Brazil",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,12,,DNF,0.0
+2024,26,interlagos,"Interlagos, Brazil",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,17,1.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",OCO,Esteban OCON,alpine,Alpine,4,2.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",GAS,Pierre GASLY,alpine,Alpine,13,3.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",RUS,George RUSSELL,mercedes,Mercedes,2,4.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",LEC,Charles LECLERC,ferrari,Ferrari,6,5.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",NOR,Lando NORRIS,mclaren,McLaren,1,6.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",TSU,Yuki TSUNODA,rb,RB,3,7.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",PIA,Oscar PIASTRI,mclaren,McLaren,8,8.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",LAW,Liam LAWSON,rb,RB,5,9.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",HAM,Lewis HAMILTON,mercedes,Mercedes,14,10.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,12,11.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,15,12.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,11,13.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",ALO,Fernando ALONSO,aston_martin,Aston Martin,9,14.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,19,15.0,Finished,0.0
+2024,26,interlagos,"Interlagos, Brazil",SAI,Carlos SAINZ,ferrari,Ferrari,20,,DNF,0.0
+2024,26,interlagos,"Interlagos, Brazil",COL,Franco COLAPINTO,williams,Williams,16,,DNF,0.0
+2024,26,interlagos,"Interlagos, Brazil",ALB,Alexander ALBON,williams,Williams,7,,DNS,0.0
+2024,26,interlagos,"Interlagos, Brazil",STR,Lance STROLL,aston_martin,Aston Martin,10,,DNS,0.0
+2024,26,interlagos,"Interlagos, Brazil",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,18,,Disqualified,0.0
+2024,27,las_vegas,"Las Vegas, United States",RUS,George RUSSELL,mercedes,Mercedes,1,1.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",HAM,Lewis HAMILTON,mercedes,Mercedes,10,2.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",SAI,Carlos SAINZ,ferrari,Ferrari,2,3.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",LEC,Charles LECLERC,ferrari,Ferrari,4,4.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,5,5.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",NOR,Lando NORRIS,mclaren,McLaren,6,6.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",PIA,Oscar PIASTRI,mclaren,McLaren,8,7.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,9,8.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",TSU,Yuki TSUNODA,rb,RB,7,9.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,15,10.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,16,11.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,12,12.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,13,13.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",COL,Franco COLAPINTO,williams,Williams,20,14.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",STR,Lance STROLL,aston_martin,Aston Martin,18,15.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",LAW,Liam LAWSON,rb,RB,14,16.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",OCO,Esteban OCON,alpine,Alpine,11,17.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,19,18.0,Finished,0.0
+2024,27,las_vegas,"Las Vegas, United States",ALB,Alexander ALBON,williams,Williams,17,,DNF,0.0
+2024,27,las_vegas,"Las Vegas, United States",GAS,Pierre GASLY,alpine,Alpine,3,,DNF,0.0
+2024,28,lusail,"Lusail, Qatar",PIA,Oscar PIASTRI,mclaren,McLaren,3,1.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",NOR,Lando NORRIS,mclaren,McLaren,1,2.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",RUS,George RUSSELL,mercedes,Mercedes,2,3.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",SAI,Carlos SAINZ,ferrari,Ferrari,4,4.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",LEC,Charles LECLERC,ferrari,Ferrari,5,5.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",HAM,Lewis HAMILTON,mercedes,Mercedes,7,6.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,9,7.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,6,8.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",GAS,Pierre GASLY,alpine,Alpine,8,9.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,15,10.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",ALO,Fernando ALONSO,aston_martin,Aston Martin,11,11.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,13,12.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",STR,Lance STROLL,aston_martin,Aston Martin,14,13.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",OCO,Esteban OCON,alpine,Alpine,17,14.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",ALB,Alexander ALBON,williams,Williams,12,15.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",LAW,Liam LAWSON,rb,RB,10,16.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",TSU,Yuki TSUNODA,rb,RB,16,17.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",COL,Franco COLAPINTO,williams,Williams,20,18.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,18,19.0,Finished,0.0
+2024,28,lusail,"Lusail, Qatar",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,19,20.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",LEC,Charles LECLERC,ferrari,Ferrari,5,2.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",PIA,Oscar PIASTRI,mclaren,McLaren,4,3.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",RUS,George RUSSELL,mercedes,Mercedes,1,4.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",GAS,Pierre GASLY,alpine,Alpine,11,5.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",SAI,Carlos SAINZ,ferrari,Ferrari,7,6.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,7.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,12,8.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,10,9.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",NOR,Lando NORRIS,mclaren,McLaren,3,10.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,13,11.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",HAM,Lewis HAMILTON,mercedes,Mercedes,6,12.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",TSU,Yuki TSUNODA,rb,RB,14,13.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",LAW,Liam LAWSON,rb,RB,17,14.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",ALB,Alexander ALBON,williams,Williams,16,15.0,Finished,0.0
+2024,29,lusail,"Lusail, Qatar",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,18,,DNF,0.0
+2024,29,lusail,"Lusail, Qatar",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,9,,DNF,0.0
+2024,29,lusail,"Lusail, Qatar",STR,Lance STROLL,aston_martin,Aston Martin,15,,DNF,0.0
+2024,29,lusail,"Lusail, Qatar",COL,Franco COLAPINTO,williams,Williams,19,,DNF,0.0
+2024,29,lusail,"Lusail, Qatar",OCO,Esteban OCON,alpine,Alpine,20,,DNF,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",SAI,Carlos SAINZ,ferrari,Ferrari,3,2.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",LEC,Charles LECLERC,ferrari,Ferrari,19,3.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",HAM,Lewis HAMILTON,mercedes,Mercedes,16,4.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",RUS,George RUSSELL,mercedes,Mercedes,6,5.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,6.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",GAS,Pierre GASLY,alpine,Alpine,5,7.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",HUL,Nico HULKENBERG,haas_f1_team,Haas F1 Team,7,8.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,9.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",PIA,Oscar PIASTRI,mclaren,McLaren,2,10.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ALB,Alexander ALBON,williams,Williams,18,11.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",TSU,Yuki TSUNODA,rb,RB,11,12.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ZHO,ZHOU Guanyu,kick_sauber,Kick Sauber,15,13.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",STR,Lance STROLL,aston_martin,Aston Martin,13,14.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",DOO,Jack DOOHAN,alpine,Alpine,17,15.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",MAG,Kevin MAGNUSSEN,haas_f1_team,Haas F1 Team,14,16.0,Finished,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",LAW,Liam LAWSON,rb,RB,12,17.0,DNF,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",BOT,Valtteri BOTTAS,kick_sauber,Kick Sauber,9,,DNF,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",COL,Franco COLAPINTO,williams,Williams,20,,DNF,0.0
+2024,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",PER,Sergio PEREZ,red_bull_racing,Red Bull Racing,10,,DNF,0.0
+2025,1,melbourne,"Melbourne, Australia",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,2.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",RUS,George RUSSELL,mercedes,Mercedes,4,3.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",ANT,Kimi ANTONELLI,mercedes,Mercedes,16,4.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",ALB,Alexander ALBON,williams,Williams,6,5.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",STR,Lance STROLL,aston_martin,Aston Martin,13,6.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,17,7.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",LEC,Charles LECLERC,ferrari,Ferrari,7,8.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",PIA,Oscar PIASTRI,mclaren,McLaren,2,9.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",HAM,Lewis HAMILTON,ferrari,Ferrari,8,10.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",GAS,Pierre GASLY,alpine,Alpine,9,11.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",TSU,Yuki TSUNODA,racing_bulls,Racing Bulls,5,12.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,19,13.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,20,14.0,Finished,0.0
+2025,1,melbourne,"Melbourne, Australia",LAW,Liam LAWSON,red_bull_racing,Red Bull Racing,18,,DNF,0.0
+2025,1,melbourne,"Melbourne, Australia",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,15,,DNF,0.0
+2025,1,melbourne,"Melbourne, Australia",ALO,Fernando ALONSO,aston_martin,Aston Martin,12,,DNF,0.0
+2025,1,melbourne,"Melbourne, Australia",SAI,Carlos SAINZ,williams,Williams,10,,DNF,0.0
+2025,1,melbourne,"Melbourne, Australia",DOO,Jack DOOHAN,alpine,Alpine,14,,DNF,0.0
+2025,1,melbourne,"Melbourne, Australia",HAD,Isack HADJAR,racing_bulls,Racing Bulls,11,,DNS,0.0
+2025,2,shanghai,"Shanghai, China",HAM,Lewis HAMILTON,ferrari,Ferrari,1,1.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",PIA,Oscar PIASTRI,mclaren,McLaren,3,2.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,3.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",RUS,George RUSSELL,mercedes,Mercedes,5,4.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",LEC,Charles LECLERC,ferrari,Ferrari,4,5.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",TSU,Yuki TSUNODA,racing_bulls,Racing Bulls,8,6.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",ANT,Kimi ANTONELLI,mercedes,Mercedes,7,7.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",NOR,Lando NORRIS,mclaren,McLaren,6,8.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",STR,Lance STROLL,aston_martin,Aston Martin,10,9.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",ALO,Fernando ALONSO,aston_martin,Aston Martin,11,10.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",ALB,Alexander ALBON,williams,Williams,9,11.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",GAS,Pierre GASLY,alpine,Alpine,17,12.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",HAD,Isack HADJAR,racing_bulls,Racing Bulls,15,13.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",LAW,Liam LAWSON,red_bull_racing,Red Bull Racing,19,14.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,12,15.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,18,16.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",SAI,Carlos SAINZ,williams,Williams,13,17.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,14,18.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,20,19.0,Finished,0.0
+2025,2,shanghai,"Shanghai, China",DOO,Jack DOOHAN,alpine,Alpine,16,20.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",PIA,Oscar PIASTRI,mclaren,McLaren,1,1.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",NOR,Lando NORRIS,mclaren,McLaren,3,2.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",RUS,George RUSSELL,mercedes,Mercedes,2,3.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,4.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,11,5.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",ANT,Kimi ANTONELLI,mercedes,Mercedes,8,6.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",ALB,Alexander ALBON,williams,Williams,10,7.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,17,8.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",STR,Lance STROLL,aston_martin,Aston Martin,14,9.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",SAI,Carlos SAINZ,williams,Williams,15,10.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",HAD,Isack HADJAR,racing_bulls,Racing Bulls,7,11.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",LAW,Liam LAWSON,red_bull_racing,Red Bull Racing,20,12.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",DOO,Jack DOOHAN,alpine,Alpine,18,13.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,19,14.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,12,15.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",TSU,Yuki TSUNODA,racing_bulls,Racing Bulls,9,16.0,Finished,0.0
+2025,3,shanghai,"Shanghai, China",ALO,Fernando ALONSO,aston_martin,Aston Martin,13,,DNF,0.0
+2025,3,shanghai,"Shanghai, China",LEC,Charles LECLERC,ferrari,Ferrari,6,,Disqualified,0.0
+2025,3,shanghai,"Shanghai, China",HAM,Lewis HAMILTON,ferrari,Ferrari,5,,Disqualified,0.0
+2025,3,shanghai,"Shanghai, China",GAS,Pierre GASLY,alpine,Alpine,16,,Disqualified,0.0
+2025,4,suzuka,"Suzuka, Japan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",PIA,Oscar PIASTRI,mclaren,McLaren,3,3.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",LEC,Charles LECLERC,ferrari,Ferrari,4,4.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",RUS,George RUSSELL,mercedes,Mercedes,5,5.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",ANT,Kimi ANTONELLI,mercedes,Mercedes,6,6.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",HAM,Lewis HAMILTON,ferrari,Ferrari,8,7.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",HAD,Isack HADJAR,racing_bulls,Racing Bulls,7,8.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",ALB,Alexander ALBON,williams,Williams,9,9.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,10,10.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",ALO,Fernando ALONSO,aston_martin,Aston Martin,12,11.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,14,12.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",GAS,Pierre GASLY,alpine,Alpine,11,13.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",SAI,Carlos SAINZ,williams,Williams,15,14.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",DOO,Jack DOOHAN,alpine,Alpine,19,15.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,16,16.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",LAW,Liam LAWSON,racing_bulls,Racing Bulls,13,17.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,18,18.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,17,19.0,Finished,0.0
+2025,4,suzuka,"Suzuka, Japan",STR,Lance STROLL,aston_martin,Aston Martin,20,20.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",PIA,Oscar PIASTRI,mclaren,McLaren,1,1.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",RUS,George RUSSELL,mercedes,Mercedes,3,2.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",NOR,Lando NORRIS,mclaren,McLaren,6,3.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",LEC,Charles LECLERC,ferrari,Ferrari,2,4.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",HAM,Lewis HAMILTON,ferrari,Ferrari,9,5.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,7,6.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",GAS,Pierre GASLY,alpine,Alpine,4,7.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,14,8.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,10,9.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,20,10.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",ANT,Kimi ANTONELLI,mercedes,Mercedes,5,11.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",ALB,Alexander ALBON,williams,Williams,15,12.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",HAD,Isack HADJAR,racing_bulls,Racing Bulls,12,13.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",DOO,Jack DOOHAN,alpine,Alpine,11,14.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",ALO,Fernando ALONSO,aston_martin,Aston Martin,13,15.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",LAW,Liam LAWSON,racing_bulls,Racing Bulls,17,16.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",STR,Lance STROLL,aston_martin,Aston Martin,19,17.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,18,18.0,Finished,0.0
+2025,5,sakhir,"Sakhir, Bahrain",SAI,Carlos SAINZ,williams,Williams,8,,DNF,0.0
+2025,5,sakhir,"Sakhir, Bahrain",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,16,,Disqualified,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",PIA,Oscar PIASTRI,mclaren,McLaren,2,1.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,2.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",LEC,Charles LECLERC,ferrari,Ferrari,4,3.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",NOR,Lando NORRIS,mclaren,McLaren,10,4.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",RUS,George RUSSELL,mercedes,Mercedes,3,5.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",ANT,Kimi ANTONELLI,mercedes,Mercedes,5,6.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",HAM,Lewis HAMILTON,ferrari,Ferrari,7,7.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",SAI,Carlos SAINZ,williams,Williams,6,8.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",ALB,Alexander ALBON,williams,Williams,11,9.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",HAD,Isack HADJAR,racing_bulls,Racing Bulls,14,10.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",ALO,Fernando ALONSO,aston_martin,Aston Martin,13,11.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",LAW,Liam LAWSON,racing_bulls,Racing Bulls,12,12.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,15,13.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,19,14.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,18,15.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",STR,Lance STROLL,aston_martin,Aston Martin,16,16.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",DOO,Jack DOOHAN,alpine,Alpine,17,17.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,20,18.0,Finished,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,8,,DNF,0.0
+2025,6,jeddah,"Jeddah, Saudi Arabia",GAS,Pierre GASLY,alpine,Alpine,9,,DNF,0.0
+2025,7,miami,"Miami, United States",NOR,Lando NORRIS,mclaren,McLaren,3,1.0,Finished,0.0
+2025,7,miami,"Miami, United States",PIA,Oscar PIASTRI,mclaren,McLaren,2,2.0,Finished,0.0
+2025,7,miami,"Miami, United States",HAM,Lewis HAMILTON,ferrari,Ferrari,7,3.0,Finished,0.0
+2025,7,miami,"Miami, United States",RUS,George RUSSELL,mercedes,Mercedes,5,4.0,Finished,0.0
+2025,7,miami,"Miami, United States",STR,Lance STROLL,aston_martin,Aston Martin,16,5.0,Finished,0.0
+2025,7,miami,"Miami, United States",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,20,6.0,Finished,0.0
+2025,7,miami,"Miami, United States",ANT,Kimi ANTONELLI,mercedes,Mercedes,1,7.0,Finished,0.0
+2025,7,miami,"Miami, United States",GAS,Pierre GASLY,alpine,Alpine,13,8.0,Finished,0.0
+2025,7,miami,"Miami, United States",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,11,9.0,Finished,0.0
+2025,7,miami,"Miami, United States",HAD,Isack HADJAR,racing_bulls,Racing Bulls,9,10.0,Finished,0.0
+2025,7,miami,"Miami, United States",ALB,Alexander ALBON,williams,Williams,8,11.0,Finished,0.0
+2025,7,miami,"Miami, United States",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,12,12.0,Finished,0.0
+2025,7,miami,"Miami, United States",LAW,Liam LAWSON,racing_bulls,Racing Bulls,14,13.0,Finished,0.0
+2025,7,miami,"Miami, United States",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,19,14.0,Finished,0.0
+2025,7,miami,"Miami, United States",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,18,15.0,Finished,0.0
+2025,7,miami,"Miami, United States",DOO,Jack DOOHAN,alpine,Alpine,17,16.0,Finished,0.0
+2025,7,miami,"Miami, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,17.0,Finished,0.0
+2025,7,miami,"Miami, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,,DNF,0.0
+2025,7,miami,"Miami, United States",SAI,Carlos SAINZ,williams,Williams,15,,DNF,0.0
+2025,7,miami,"Miami, United States",LEC,Charles LECLERC,ferrari,Ferrari,6,,DNS,0.0
+2025,8,miami,"Miami, United States",PIA,Oscar PIASTRI,mclaren,McLaren,4,1.0,Finished,0.0
+2025,8,miami,"Miami, United States",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2025,8,miami,"Miami, United States",RUS,George RUSSELL,mercedes,Mercedes,5,3.0,Finished,0.0
+2025,8,miami,"Miami, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,4.0,Finished,0.0
+2025,8,miami,"Miami, United States",ALB,Alexander ALBON,williams,Williams,7,5.0,Finished,0.0
+2025,8,miami,"Miami, United States",ANT,Kimi ANTONELLI,mercedes,Mercedes,3,6.0,Finished,0.0
+2025,8,miami,"Miami, United States",LEC,Charles LECLERC,ferrari,Ferrari,8,7.0,Finished,0.0
+2025,8,miami,"Miami, United States",HAM,Lewis HAMILTON,ferrari,Ferrari,12,8.0,Finished,0.0
+2025,8,miami,"Miami, United States",SAI,Carlos SAINZ,williams,Williams,6,9.0,Finished,0.0
+2025,8,miami,"Miami, United States",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,10,10.0,Finished,0.0
+2025,8,miami,"Miami, United States",HAD,Isack HADJAR,racing_bulls,Racing Bulls,11,11.0,Finished,0.0
+2025,8,miami,"Miami, United States",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,9,12.0,Finished,0.0
+2025,8,miami,"Miami, United States",GAS,Pierre GASLY,alpine,Alpine,20,13.0,Finished,0.0
+2025,8,miami,"Miami, United States",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,16,14.0,Finished,0.0
+2025,8,miami,"Miami, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,17,15.0,Finished,0.0
+2025,8,miami,"Miami, United States",STR,Lance STROLL,aston_martin,Aston Martin,18,16.0,Finished,0.0
+2025,8,miami,"Miami, United States",LAW,Liam LAWSON,racing_bulls,Racing Bulls,15,,DNF,0.0
+2025,8,miami,"Miami, United States",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,13,,DNF,0.0
+2025,8,miami,"Miami, United States",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,19,,DNF,0.0
+2025,8,miami,"Miami, United States",DOO,Jack DOOHAN,alpine,Alpine,14,,DNF,0.0
+2025,9,imola,"Imola, Italy",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2025,9,imola,"Imola, Italy",NOR,Lando NORRIS,mclaren,McLaren,4,2.0,Finished,0.0
+2025,9,imola,"Imola, Italy",PIA,Oscar PIASTRI,mclaren,McLaren,1,3.0,Finished,0.0
+2025,9,imola,"Imola, Italy",HAM,Lewis HAMILTON,ferrari,Ferrari,12,4.0,Finished,0.0
+2025,9,imola,"Imola, Italy",ALB,Alexander ALBON,williams,Williams,7,5.0,Finished,0.0
+2025,9,imola,"Imola, Italy",LEC,Charles LECLERC,ferrari,Ferrari,11,6.0,Finished,0.0
+2025,9,imola,"Imola, Italy",RUS,George RUSSELL,mercedes,Mercedes,3,7.0,Finished,0.0
+2025,9,imola,"Imola, Italy",SAI,Carlos SAINZ,williams,Williams,6,8.0,Finished,0.0
+2025,9,imola,"Imola, Italy",HAD,Isack HADJAR,racing_bulls,Racing Bulls,9,9.0,Finished,0.0
+2025,9,imola,"Imola, Italy",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,20,10.0,Finished,0.0
+2025,9,imola,"Imola, Italy",ALO,Fernando ALONSO,aston_martin,Aston Martin,5,11.0,Finished,0.0
+2025,9,imola,"Imola, Italy",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,17,12.0,Finished,0.0
+2025,9,imola,"Imola, Italy",GAS,Pierre GASLY,alpine,Alpine,10,13.0,Finished,0.0
+2025,9,imola,"Imola, Italy",LAW,Liam LAWSON,racing_bulls,Racing Bulls,15,14.0,Finished,0.0
+2025,9,imola,"Imola, Italy",STR,Lance STROLL,aston_martin,Aston Martin,8,15.0,Finished,0.0
+2025,9,imola,"Imola, Italy",COL,Franco COLAPINTO,alpine,Alpine,16,16.0,Finished,0.0
+2025,9,imola,"Imola, Italy",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,19,17.0,Finished,0.0
+2025,9,imola,"Imola, Italy",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,14,18.0,Finished,0.0
+2025,9,imola,"Imola, Italy",ANT,Kimi ANTONELLI,mercedes,Mercedes,13,,DNF,0.0
+2025,9,imola,"Imola, Italy",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,18,,DNF,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",LEC,Charles LECLERC,ferrari,Ferrari,2,2.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",PIA,Oscar PIASTRI,mclaren,McLaren,3,3.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,4.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",HAM,Lewis HAMILTON,ferrari,Ferrari,7,5.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",HAD,Isack HADJAR,racing_bulls,Racing Bulls,5,6.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,8,7.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",LAW,Liam LAWSON,racing_bulls,Racing Bulls,9,8.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",ALB,Alexander ALBON,williams,Williams,10,9.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",SAI,Carlos SAINZ,williams,Williams,11,10.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",RUS,George RUSSELL,mercedes,Mercedes,14,11.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,20,12.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",COL,Franco COLAPINTO,alpine,Alpine,18,13.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,16,14.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",STR,Lance STROLL,aston_martin,Aston Martin,19,15.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,13,16.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,12,17.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",ANT,Kimi ANTONELLI,mercedes,Mercedes,15,18.0,Finished,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,,DNF,0.0
+2025,10,monte_carlo,"Monte Carlo, Monaco",GAS,Pierre GASLY,alpine,Alpine,17,,DNF,0.0
+2025,11,catalunya,"Catalunya, Spain",PIA,Oscar PIASTRI,mclaren,McLaren,1,1.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",LEC,Charles LECLERC,ferrari,Ferrari,7,3.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",RUS,George RUSSELL,mercedes,Mercedes,4,4.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,15,5.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",HAM,Lewis HAMILTON,ferrari,Ferrari,5,6.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",HAD,Isack HADJAR,racing_bulls,Racing Bulls,9,7.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",GAS,Pierre GASLY,alpine,Alpine,8,8.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,9.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,10.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",LAW,Liam LAWSON,racing_bulls,Racing Bulls,13,11.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,12,12.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,19,13.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",SAI,Carlos SAINZ,williams,Williams,17,14.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",COL,Franco COLAPINTO,alpine,Alpine,18,15.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,16,16.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,14,17.0,Finished,0.0
+2025,11,catalunya,"Catalunya, Spain",ANT,Kimi ANTONELLI,mercedes,Mercedes,6,,DNF,0.0
+2025,11,catalunya,"Catalunya, Spain",ALB,Alexander ALBON,williams,Williams,11,,DNF,0.0
+2025,12,montreal,"Montreal, Canada",RUS,George RUSSELL,mercedes,Mercedes,1,1.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",ANT,Kimi ANTONELLI,mercedes,Mercedes,4,3.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",PIA,Oscar PIASTRI,mclaren,McLaren,3,4.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",LEC,Charles LECLERC,ferrari,Ferrari,8,5.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",HAM,Lewis HAMILTON,ferrari,Ferrari,5,6.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,7.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,11,8.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,14,9.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",SAI,Carlos SAINZ,williams,Williams,16,10.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,13,11.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,18,12.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",COL,Franco COLAPINTO,alpine,Alpine,10,13.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,15,14.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",GAS,Pierre GASLY,alpine,Alpine,20,15.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",HAD,Isack HADJAR,racing_bulls,Racing Bulls,12,16.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",STR,Lance STROLL,aston_martin,Aston Martin,17,17.0,Finished,0.0
+2025,12,montreal,"Montreal, Canada",NOR,Lando NORRIS,mclaren,McLaren,7,18.0,DNF,0.0
+2025,12,montreal,"Montreal, Canada",LAW,Liam LAWSON,racing_bulls,Racing Bulls,19,,DNF,0.0
+2025,12,montreal,"Montreal, Canada",ALB,Alexander ALBON,williams,Williams,9,,DNF,0.0
+2025,13,spielberg,"Spielberg, Austria",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",PIA,Oscar PIASTRI,mclaren,McLaren,3,2.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",LEC,Charles LECLERC,ferrari,Ferrari,2,3.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",HAM,Lewis HAMILTON,ferrari,Ferrari,4,4.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",RUS,George RUSSELL,mercedes,Mercedes,5,5.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",LAW,Liam LAWSON,racing_bulls,Racing Bulls,6,6.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",ALO,Fernando ALONSO,aston_martin,Aston Martin,11,7.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,8,8.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,20,9.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,17,10.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,15,11.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",HAD,Isack HADJAR,racing_bulls,Racing Bulls,13,12.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",GAS,Pierre GASLY,alpine,Alpine,10,13.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",STR,Lance STROLL,aston_martin,Aston Martin,16,14.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",COL,Franco COLAPINTO,alpine,Alpine,14,15.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,18,16.0,Finished,0.0
+2025,13,spielberg,"Spielberg, Austria",ALB,Alexander ALBON,williams,Williams,12,,DNF,0.0
+2025,13,spielberg,"Spielberg, Austria",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,7,,DNF,0.0
+2025,13,spielberg,"Spielberg, Austria",ANT,Kimi ANTONELLI,mercedes,Mercedes,9,,DNF,0.0
+2025,13,spielberg,"Spielberg, Austria",SAI,Carlos SAINZ,williams,Williams,19,,DNS,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",NOR,Lando NORRIS,mclaren,McLaren,3,1.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",PIA,Oscar PIASTRI,mclaren,McLaren,2,2.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,19,3.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",HAM,Lewis HAMILTON,ferrari,Ferrari,5,4.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,5.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",GAS,Pierre GASLY,alpine,Alpine,8,6.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",STR,Lance STROLL,aston_martin,Aston Martin,17,7.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",ALB,Alexander ALBON,williams,Williams,13,8.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,9.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",RUS,George RUSSELL,mercedes,Mercedes,4,10.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,18,11.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",SAI,Carlos SAINZ,williams,Williams,9,12.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,14,13.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",LEC,Charles LECLERC,ferrari,Ferrari,6,14.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,11,15.0,Finished,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",ANT,Kimi ANTONELLI,mercedes,Mercedes,10,,DNF,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",HAD,Isack HADJAR,racing_bulls,Racing Bulls,12,,DNF,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,16,,DNF,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",LAW,Liam LAWSON,racing_bulls,Racing Bulls,15,,DNF,0.0
+2025,14,silverstone,"Silverstone, United Kingdom",COL,Franco COLAPINTO,alpine,Alpine,20,,DNS,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",PIA,Oscar PIASTRI,mclaren,McLaren,1,2.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",NOR,Lando NORRIS,mclaren,McLaren,3,3.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",LEC,Charles LECLERC,ferrari,Ferrari,4,4.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,5,5.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",SAI,Carlos SAINZ,williams,Williams,6,6.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,7,7.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",HAD,Isack HADJAR,racing_bulls,Racing Bulls,9,8.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,10,9.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",LAW,Liam LAWSON,racing_bulls,Racing Bulls,11,10.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,12,11.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",RUS,George RUSSELL,mercedes,Mercedes,13,12.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",STR,Lance STROLL,aston_martin,Aston Martin,15,13.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",ALO,Fernando ALONSO,aston_martin,Aston Martin,14,14.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",HAM,Lewis HAMILTON,ferrari,Ferrari,18,15.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",ALB,Alexander ALBON,williams,Williams,16,16.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",ANT,Kimi ANTONELLI,mercedes,Mercedes,19,17.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,17,18.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",COL,Franco COLAPINTO,alpine,Alpine,20,19.0,Finished,0.0
+2025,15,spa-francorchamps,"Spa-Francorchamps, Belgium",GAS,Pierre GASLY,alpine,Alpine,8,,DNF,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",PIA,Oscar PIASTRI,mclaren,McLaren,2,1.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",NOR,Lando NORRIS,mclaren,McLaren,1,2.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",LEC,Charles LECLERC,ferrari,Ferrari,3,3.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,4,4.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",RUS,George RUSSELL,mercedes,Mercedes,6,5.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",ALB,Alexander ALBON,williams,Williams,5,6.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",HAM,Lewis HAMILTON,ferrari,Ferrari,18,7.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",LAW,Liam LAWSON,racing_bulls,Racing Bulls,9,8.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,10,9.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",GAS,Pierre GASLY,alpine,Alpine,13,10.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,12,11.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,14,12.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,7,13.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",STR,Lance STROLL,aston_martin,Aston Martin,16,14.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,11,15.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",ANT,Kimi ANTONELLI,mercedes,Mercedes,19,16.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",ALO,Fernando ALONSO,aston_martin,Aston Martin,20,17.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",SAI,Carlos SAINZ,williams,Williams,17,18.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",COL,Franco COLAPINTO,alpine,Alpine,15,19.0,Finished,0.0
+2025,16,spa-francorchamps,"Spa-Francorchamps, Belgium",HAD,Isack HADJAR,racing_bulls,Racing Bulls,8,20.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",NOR,Lando NORRIS,mclaren,McLaren,3,1.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",PIA,Oscar PIASTRI,mclaren,McLaren,2,2.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",RUS,George RUSSELL,mercedes,Mercedes,4,3.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",LEC,Charles LECLERC,ferrari,Ferrari,1,4.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",ALO,Fernando ALONSO,aston_martin,Aston Martin,5,5.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,7,6.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",STR,Lance STROLL,aston_martin,Aston Martin,6,7.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",LAW,Liam LAWSON,racing_bulls,Racing Bulls,9,8.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,8,9.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",ANT,Kimi ANTONELLI,mercedes,Mercedes,15,10.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",HAD,Isack HADJAR,racing_bulls,Racing Bulls,10,11.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",HAM,Lewis HAMILTON,ferrari,Ferrari,12,12.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,18,13.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",SAI,Carlos SAINZ,williams,Williams,13,14.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",ALB,Alexander ALBON,williams,Williams,19,15.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,17,16.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,20,17.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",COL,Franco COLAPINTO,alpine,Alpine,14,18.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",GAS,Pierre GASLY,alpine,Alpine,16,19.0,Finished,0.0
+2025,17,hungaroring,"Hungaroring, Hungary",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,11,,DNF,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",PIA,Oscar PIASTRI,mclaren,McLaren,1,1.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,2.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",HAD,Isack HADJAR,racing_bulls,Racing Bulls,4,3.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",RUS,George RUSSELL,mercedes,Mercedes,5,4.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",ALB,Alexander ALBON,williams,Williams,15,5.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,20,6.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",STR,Lance STROLL,aston_martin,Aston Martin,19,7.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,8.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,12,9.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,18,10.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",COL,Franco COLAPINTO,alpine,Alpine,16,11.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",LAW,Liam LAWSON,racing_bulls,Racing Bulls,8,12.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",SAI,Carlos SAINZ,williams,Williams,9,13.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,17,14.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,13,15.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",ANT,Kimi ANTONELLI,mercedes,Mercedes,11,16.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",GAS,Pierre GASLY,alpine,Alpine,14,17.0,Finished,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",NOR,Lando NORRIS,mclaren,McLaren,2,18.0,DNF,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",LEC,Charles LECLERC,ferrari,Ferrari,6,,DNF,0.0
+2025,18,zandvoort,"Zandvoort, Netherlands",HAM,Lewis HAMILTON,ferrari,Ferrari,7,,DNF,0.0
+2025,19,monza,"Monza, Italy",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2025,19,monza,"Monza, Italy",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2025,19,monza,"Monza, Italy",PIA,Oscar PIASTRI,mclaren,McLaren,3,3.0,Finished,0.0
+2025,19,monza,"Monza, Italy",LEC,Charles LECLERC,ferrari,Ferrari,4,4.0,Finished,0.0
+2025,19,monza,"Monza, Italy",RUS,George RUSSELL,mercedes,Mercedes,5,5.0,Finished,0.0
+2025,19,monza,"Monza, Italy",HAM,Lewis HAMILTON,ferrari,Ferrari,10,6.0,Finished,0.0
+2025,19,monza,"Monza, Italy",ALB,Alexander ALBON,williams,Williams,14,7.0,Finished,0.0
+2025,19,monza,"Monza, Italy",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,7,8.0,Finished,0.0
+2025,19,monza,"Monza, Italy",ANT,Kimi ANTONELLI,mercedes,Mercedes,6,9.0,Finished,0.0
+2025,19,monza,"Monza, Italy",HAD,Isack HADJAR,racing_bulls,Racing Bulls,19,10.0,Finished,0.0
+2025,19,monza,"Monza, Italy",SAI,Carlos SAINZ,williams,Williams,13,11.0,Finished,0.0
+2025,19,monza,"Monza, Italy",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,11,12.0,Finished,0.0
+2025,19,monza,"Monza, Italy",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,9,13.0,Finished,0.0
+2025,19,monza,"Monza, Italy",LAW,Liam LAWSON,racing_bulls,Racing Bulls,18,14.0,Finished,0.0
+2025,19,monza,"Monza, Italy",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,15,15.0,Finished,0.0
+2025,19,monza,"Monza, Italy",GAS,Pierre GASLY,alpine,Alpine,20,16.0,Finished,0.0
+2025,19,monza,"Monza, Italy",COL,Franco COLAPINTO,alpine,Alpine,17,17.0,Finished,0.0
+2025,19,monza,"Monza, Italy",STR,Lance STROLL,aston_martin,Aston Martin,16,18.0,Finished,0.0
+2025,19,monza,"Monza, Italy",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,,DNF,0.0
+2025,19,monza,"Monza, Italy",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,12,,DNS,0.0
+2025,20,baku,"Baku, Azerbaijan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",RUS,George RUSSELL,mercedes,Mercedes,5,2.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",SAI,Carlos SAINZ,williams,Williams,2,3.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",ANT,Kimi ANTONELLI,mercedes,Mercedes,4,4.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",LAW,Liam LAWSON,racing_bulls,Racing Bulls,3,5.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,6,6.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",NOR,Lando NORRIS,mclaren,McLaren,7,7.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",HAM,Lewis HAMILTON,ferrari,Ferrari,12,8.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",LEC,Charles LECLERC,ferrari,Ferrari,10,9.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",HAD,Isack HADJAR,racing_bulls,Racing Bulls,8,10.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,13,11.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,15,12.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",ALB,Alexander ALBON,williams,Williams,19,13.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,20,14.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",ALO,Fernando ALONSO,aston_martin,Aston Martin,11,15.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,17,16.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",STR,Lance STROLL,aston_martin,Aston Martin,14,17.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",GAS,Pierre GASLY,alpine,Alpine,18,18.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",COL,Franco COLAPINTO,alpine,Alpine,16,19.0,Finished,0.0
+2025,20,baku,"Baku, Azerbaijan",PIA,Oscar PIASTRI,mclaren,McLaren,9,,DNF,0.0
+2025,21,singapore,"Singapore, Singapore",RUS,George RUSSELL,mercedes,Mercedes,1,1.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,2.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",NOR,Lando NORRIS,mclaren,McLaren,5,3.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",PIA,Oscar PIASTRI,mclaren,McLaren,3,4.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",ANT,Kimi ANTONELLI,mercedes,Mercedes,4,5.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",LEC,Charles LECLERC,ferrari,Ferrari,7,6.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,7.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",HAM,Lewis HAMILTON,ferrari,Ferrari,6,8.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,9,9.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",SAI,Carlos SAINZ,williams,Williams,18,10.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",HAD,Isack HADJAR,racing_bulls,Racing Bulls,8,11.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,13,12.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",STR,Lance STROLL,aston_martin,Aston Martin,15,13.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",ALB,Alexander ALBON,williams,Williams,20,14.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",LAW,Liam LAWSON,racing_bulls,Racing Bulls,12,15.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",COL,Franco COLAPINTO,alpine,Alpine,16,16.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,14,17.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,17,18.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",GAS,Pierre GASLY,alpine,Alpine,19,19.0,Finished,0.0
+2025,21,singapore,"Singapore, Singapore",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,11,20.0,Finished,0.0
+2025,22,austin,"Austin, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2025,22,austin,"Austin, United States",RUS,George RUSSELL,mercedes,Mercedes,5,2.0,Finished,0.0
+2025,22,austin,"Austin, United States",SAI,Carlos SAINZ,williams,Williams,7,3.0,Finished,0.0
+2025,22,austin,"Austin, United States",HAM,Lewis HAMILTON,ferrari,Ferrari,8,4.0,Finished,0.0
+2025,22,austin,"Austin, United States",LEC,Charles LECLERC,ferrari,Ferrari,10,5.0,Finished,0.0
+2025,22,austin,"Austin, United States",ALB,Alexander ALBON,williams,Williams,9,6.0,Finished,0.0
+2025,22,austin,"Austin, United States",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,18,7.0,Finished,0.0
+2025,22,austin,"Austin, United States",ANT,Kimi ANTONELLI,mercedes,Mercedes,11,8.0,Finished,0.0
+2025,22,austin,"Austin, United States",LAW,Liam LAWSON,racing_bulls,Racing Bulls,15,9.0,Finished,0.0
+2025,22,austin,"Austin, United States",GAS,Pierre GASLY,alpine,Alpine,13,10.0,Finished,0.0
+2025,22,austin,"Austin, United States",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,20,11.0,Finished,0.0
+2025,22,austin,"Austin, United States",HAD,Isack HADJAR,racing_bulls,Racing Bulls,12,12.0,Finished,0.0
+2025,22,austin,"Austin, United States",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,4,13.0,Finished,0.0
+2025,22,austin,"Austin, United States",COL,Franco COLAPINTO,alpine,Alpine,17,14.0,Finished,0.0
+2025,22,austin,"Austin, United States",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,16,15.0,Finished,0.0
+2025,22,austin,"Austin, United States",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,19,,DNF,0.0
+2025,22,austin,"Austin, United States",STR,Lance STROLL,aston_martin,Aston Martin,14,,DNF,0.0
+2025,22,austin,"Austin, United States",NOR,Lando NORRIS,mclaren,McLaren,2,,DNF,0.0
+2025,22,austin,"Austin, United States",PIA,Oscar PIASTRI,mclaren,McLaren,3,,DNF,0.0
+2025,22,austin,"Austin, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,,DNF,0.0
+2025,23,austin,"Austin, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2025,23,austin,"Austin, United States",NOR,Lando NORRIS,mclaren,McLaren,2,2.0,Finished,0.0
+2025,23,austin,"Austin, United States",LEC,Charles LECLERC,ferrari,Ferrari,3,3.0,Finished,0.0
+2025,23,austin,"Austin, United States",HAM,Lewis HAMILTON,ferrari,Ferrari,5,4.0,Finished,0.0
+2025,23,austin,"Austin, United States",PIA,Oscar PIASTRI,mclaren,McLaren,6,5.0,Finished,0.0
+2025,23,austin,"Austin, United States",RUS,George RUSSELL,mercedes,Mercedes,4,6.0,Finished,0.0
+2025,23,austin,"Austin, United States",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,13,7.0,Finished,0.0
+2025,23,austin,"Austin, United States",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,11,8.0,Finished,0.0
+2025,23,austin,"Austin, United States",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,8,9.0,Finished,0.0
+2025,23,austin,"Austin, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,10,10.0,Finished,0.0
+2025,23,austin,"Austin, United States",LAW,Liam LAWSON,racing_bulls,Racing Bulls,12,11.0,Finished,0.0
+2025,23,austin,"Austin, United States",STR,Lance STROLL,aston_martin,Aston Martin,19,12.0,Finished,0.0
+2025,23,austin,"Austin, United States",ANT,Kimi ANTONELLI,mercedes,Mercedes,7,13.0,Finished,0.0
+2025,23,austin,"Austin, United States",ALB,Alexander ALBON,williams,Williams,18,14.0,Finished,0.0
+2025,23,austin,"Austin, United States",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,17,15.0,Finished,0.0
+2025,23,austin,"Austin, United States",HAD,Isack HADJAR,racing_bulls,Racing Bulls,20,16.0,Finished,0.0
+2025,23,austin,"Austin, United States",COL,Franco COLAPINTO,alpine,Alpine,15,17.0,Finished,0.0
+2025,23,austin,"Austin, United States",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,16,18.0,Finished,0.0
+2025,23,austin,"Austin, United States",GAS,Pierre GASLY,alpine,Alpine,14,19.0,Finished,0.0
+2025,23,austin,"Austin, United States",SAI,Carlos SAINZ,williams,Williams,9,,DNF,0.0
+2025,24,mexico_city,"Mexico City, Mexico",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",LEC,Charles LECLERC,ferrari,Ferrari,2,2.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,5,3.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,9,4.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",PIA,Oscar PIASTRI,mclaren,McLaren,7,5.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",ANT,Kimi ANTONELLI,mercedes,Mercedes,6,6.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",RUS,George RUSSELL,mercedes,Mercedes,4,7.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",HAM,Lewis HAMILTON,ferrari,Ferrari,3,8.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,11,9.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,16,10.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,10,11.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",ALB,Alexander ALBON,williams,Williams,17,12.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",HAD,Isack HADJAR,racing_bulls,Racing Bulls,8,13.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",STR,Lance STROLL,aston_martin,Aston Martin,19,14.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",GAS,Pierre GASLY,alpine,Alpine,18,15.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",COL,Franco COLAPINTO,alpine,Alpine,20,16.0,Finished,0.0
+2025,24,mexico_city,"Mexico City, Mexico",SAI,Carlos SAINZ,williams,Williams,12,17.0,DNF,0.0
+2025,24,mexico_city,"Mexico City, Mexico",ALO,Fernando ALONSO,aston_martin,Aston Martin,14,,DNF,0.0
+2025,24,mexico_city,"Mexico City, Mexico",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,13,,DNF,0.0
+2025,24,mexico_city,"Mexico City, Mexico",LAW,Liam LAWSON,racing_bulls,Racing Bulls,15,,DNF,0.0
+2025,25,interlagos,"Interlagos, Brazil",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",ANT,Kimi ANTONELLI,mercedes,Mercedes,2,2.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",RUS,George RUSSELL,mercedes,Mercedes,4,3.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,6,4.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",LEC,Charles LECLERC,ferrari,Ferrari,8,5.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",ALO,Fernando ALONSO,aston_martin,Aston Martin,5,6.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",HAM,Lewis HAMILTON,ferrari,Ferrari,11,7.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",GAS,Pierre GASLY,alpine,Alpine,13,8.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",STR,Lance STROLL,aston_martin,Aston Martin,7,9.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",HAD,Isack HADJAR,racing_bulls,Racing Bulls,9,10.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,18,11.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,15,12.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",LAW,Liam LAWSON,racing_bulls,Racing Bulls,17,13.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,19,14.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",SAI,Carlos SAINZ,williams,Williams,20,15.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,10,16.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",ALB,Alexander ALBON,williams,Williams,12,17.0,Finished,0.0
+2025,25,interlagos,"Interlagos, Brazil",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,14,18.0,DNF,0.0
+2025,25,interlagos,"Interlagos, Brazil",PIA,Oscar PIASTRI,mclaren,McLaren,3,,DNF,0.0
+2025,25,interlagos,"Interlagos, Brazil",COL,Franco COLAPINTO,alpine,Alpine,16,,DNF,0.0
+2025,26,interlagos,"Interlagos, Brazil",NOR,Lando NORRIS,mclaren,McLaren,1,1.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",ANT,Kimi ANTONELLI,mercedes,Mercedes,2,2.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,19,3.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",RUS,George RUSSELL,mercedes,Mercedes,6,4.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",PIA,Oscar PIASTRI,mclaren,McLaren,4,5.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,8,6.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",LAW,Liam LAWSON,racing_bulls,Racing Bulls,7,7.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",HAD,Isack HADJAR,racing_bulls,Racing Bulls,5,8.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,10,9.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",GAS,Pierre GASLY,alpine,Alpine,9,10.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",ALB,Alexander ALBON,williams,Williams,12,11.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,20,12.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",SAI,Carlos SAINZ,williams,Williams,15,13.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",ALO,Fernando ALONSO,aston_martin,Aston Martin,11,14.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",COL,Franco COLAPINTO,alpine,Alpine,16,15.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",STR,Lance STROLL,aston_martin,Aston Martin,14,16.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,17,17.0,Finished,0.0
+2025,26,interlagos,"Interlagos, Brazil",HAM,Lewis HAMILTON,ferrari,Ferrari,13,,DNF,0.0
+2025,26,interlagos,"Interlagos, Brazil",LEC,Charles LECLERC,ferrari,Ferrari,3,,DNF,0.0
+2025,26,interlagos,"Interlagos, Brazil",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,18,,DNF,0.0
+2025,27,las_vegas,"Las Vegas, United States",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,2,1.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",RUS,George RUSSELL,mercedes,Mercedes,4,2.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",ANT,Kimi ANTONELLI,mercedes,Mercedes,17,3.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",LEC,Charles LECLERC,ferrari,Ferrari,9,4.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",SAI,Carlos SAINZ,williams,Williams,3,5.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",HAD,Isack HADJAR,racing_bulls,Racing Bulls,8,6.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,11,7.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",HAM,Lewis HAMILTON,ferrari,Ferrari,19,8.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,13,9.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,14,10.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",ALO,Fernando ALONSO,aston_martin,Aston Martin,7,11.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,20,12.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",GAS,Pierre GASLY,alpine,Alpine,10,13.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",LAW,Liam LAWSON,racing_bulls,Racing Bulls,6,14.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",COL,Franco COLAPINTO,alpine,Alpine,15,15.0,Finished,0.0
+2025,27,las_vegas,"Las Vegas, United States",ALB,Alexander ALBON,williams,Williams,16,,DNF,0.0
+2025,27,las_vegas,"Las Vegas, United States",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,18,,DNF,0.0
+2025,27,las_vegas,"Las Vegas, United States",STR,Lance STROLL,aston_martin,Aston Martin,12,,DNF,0.0
+2025,27,las_vegas,"Las Vegas, United States",NOR,Lando NORRIS,mclaren,McLaren,1,,Disqualified,0.0
+2025,27,las_vegas,"Las Vegas, United States",PIA,Oscar PIASTRI,mclaren,McLaren,5,,Disqualified,0.0
+2025,28,lusail,"Lusail, Qatar",PIA,Oscar PIASTRI,mclaren,McLaren,1,1.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",RUS,George RUSSELL,mercedes,Mercedes,2,2.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",NOR,Lando NORRIS,mclaren,McLaren,3,3.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,6,4.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,5,5.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",ANT,Kimi ANTONELLI,mercedes,Mercedes,7,6.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",ALO,Fernando ALONSO,aston_martin,Aston Martin,4,7.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",SAI,Carlos SAINZ,williams,Williams,8,8.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",HAD,Isack HADJAR,racing_bulls,Racing Bulls,11,9.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",ALB,Alexander ALBON,williams,Williams,10,10.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,13,11.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,12,12.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",LEC,Charles LECLERC,ferrari,Ferrari,9,13.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",LAW,Liam LAWSON,racing_bulls,Racing Bulls,16,14.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,15,15.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,14,16.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",HAM,Lewis HAMILTON,ferrari,Ferrari,18,17.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",GAS,Pierre GASLY,alpine,Alpine,19,18.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",STR,Lance STROLL,aston_martin,Aston Martin,17,19.0,Finished,0.0
+2025,28,lusail,"Lusail, Qatar",COL,Franco COLAPINTO,alpine,Alpine,20,20.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,3,1.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",PIA,Oscar PIASTRI,mclaren,McLaren,1,2.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",SAI,Carlos SAINZ,williams,Williams,7,3.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",NOR,Lando NORRIS,mclaren,McLaren,2,4.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",ANT,Kimi ANTONELLI,mercedes,Mercedes,5,5.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",RUS,George RUSSELL,mercedes,Mercedes,4,6.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",ALO,Fernando ALONSO,aston_martin,Aston Martin,8,7.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",LEC,Charles LECLERC,ferrari,Ferrari,10,8.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",LAW,Liam LAWSON,racing_bulls,Racing Bulls,12,9.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,15,10.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",ALB,Alexander ALBON,williams,Williams,14,11.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",HAM,Lewis HAMILTON,ferrari,Ferrari,17,12.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,19,13.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",COL,Franco COLAPINTO,alpine,Alpine,20,14.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,16,15.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",GAS,Pierre GASLY,alpine,Alpine,9,16.0,Finished,0.0
+2025,29,lusail,"Lusail, Qatar",STR,Lance STROLL,aston_martin,Aston Martin,18,17.0,DNF,0.0
+2025,29,lusail,"Lusail, Qatar",HAD,Isack HADJAR,racing_bulls,Racing Bulls,6,18.0,DNF,0.0
+2025,29,lusail,"Lusail, Qatar",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,13,,DNF,0.0
+2025,29,lusail,"Lusail, Qatar",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,11,,DNF,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1,1.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",PIA,Oscar PIASTRI,mclaren,McLaren,3,2.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",NOR,Lando NORRIS,mclaren,McLaren,2,3.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",LEC,Charles LECLERC,ferrari,Ferrari,5,4.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",RUS,George RUSSELL,mercedes,Mercedes,4,5.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ALO,Fernando ALONSO,aston_martin,Aston Martin,6,6.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,8,7.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",HAM,Lewis HAMILTON,ferrari,Ferrari,16,8.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",HUL,Nico HULKENBERG,kick_sauber,Kick Sauber,18,9.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",STR,Lance STROLL,aston_martin,Aston Martin,15,10.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",BOR,Gabriel BORTOLETO,kick_sauber,Kick Sauber,7,11.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,11,12.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",SAI,Carlos SAINZ,williams,Williams,12,13.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",TSU,Yuki TSUNODA,red_bull_racing,Red Bull Racing,10,14.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ANT,Kimi ANTONELLI,mercedes,Mercedes,14,15.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",ALB,Alexander ALBON,williams,Williams,17,16.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",HAD,Isack HADJAR,racing_bulls,Racing Bulls,9,17.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",LAW,Liam LAWSON,racing_bulls,Racing Bulls,13,18.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",GAS,Pierre GASLY,alpine,Alpine,19,19.0,Finished,0.0
+2025,30,yas_marina_circuit,"Yas Marina Circuit, United Arab Emirates",COL,Franco COLAPINTO,alpine,Alpine,20,20.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",RUS,George RUSSELL,mercedes,Mercedes,1,1.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",ANT,Kimi ANTONELLI,mercedes,Mercedes,2,2.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",LEC,Charles LECLERC,ferrari,Ferrari,4,3.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",HAM,Lewis HAMILTON,ferrari,Ferrari,7,4.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",NOR,Lando NORRIS,mclaren,McLaren,6,5.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,20,6.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,12,7.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",LIN,Arvid LINDBLAD,racing_bulls,Racing Bulls,9,8.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",BOR,Gabriel BORTOLETO,audi,Audi,10,9.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",GAS,Pierre GASLY,alpine,Alpine,14,10.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,13,11.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",ALB,Alexander ALBON,williams,Williams,15,12.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",LAW,Liam LAWSON,racing_bulls,Racing Bulls,8,13.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",COL,Franco COLAPINTO,alpine,Alpine,16,14.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",SAI,Carlos SAINZ,williams,Williams,21,15.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",PER,Sergio PEREZ,cadillac,Cadillac,18,16.0,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",STR,Lance STROLL,aston_martin,Aston Martin,22,,Finished,0.0
+2026,1,melbourne,"Melbourne, Australia",ALO,Fernando ALONSO,aston_martin,Aston Martin,17,,DNF,0.0
+2026,1,melbourne,"Melbourne, Australia",BOT,Valtteri BOTTAS,cadillac,Cadillac,19,,DNF,0.0
+2026,1,melbourne,"Melbourne, Australia",HAD,Isack HADJAR,red_bull_racing,Red Bull Racing,3,,DNF,0.0
+2026,1,melbourne,"Melbourne, Australia",PIA,Oscar PIASTRI,mclaren,McLaren,5,,DNS,0.0
+2026,1,melbourne,"Melbourne, Australia",HUL,Nico HULKENBERG,audi,Audi,11,,DNS,0.0
+2026,2,shanghai,"Shanghai, China",RUS,George RUSSELL,mercedes,Mercedes,1,1.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",LEC,Charles LECLERC,ferrari,Ferrari,6,2.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",HAM,Lewis HAMILTON,ferrari,Ferrari,4,3.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",NOR,Lando NORRIS,mclaren,McLaren,3,4.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",ANT,Kimi ANTONELLI,mercedes,Mercedes,2,5.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",PIA,Oscar PIASTRI,mclaren,McLaren,5,6.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",LAW,Liam LAWSON,racing_bulls,Racing Bulls,13,7.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,9,8.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,8,9.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,12,10.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",GAS,Pierre GASLY,alpine,Alpine,7,11.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",SAI,Carlos SAINZ,williams,Williams,17,12.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",BOR,Gabriel BORTOLETO,audi,Audi,14,13.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",COL,Franco COLAPINTO,alpine,Alpine,16,14.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",HAD,Isack HADJAR,red_bull_racing,Red Bull Racing,10,15.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",ALB,Alexander ALBON,williams,Williams,22,16.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",ALO,Fernando ALONSO,aston_martin,Aston Martin,18,17.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",STR,Lance STROLL,aston_martin,Aston Martin,19,18.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",PER,Sergio PEREZ,cadillac,Cadillac,21,19.0,Finished,0.0
+2026,2,shanghai,"Shanghai, China",HUL,Nico HULKENBERG,audi,Audi,11,,DNF,0.0
+2026,2,shanghai,"Shanghai, China",BOT,Valtteri BOTTAS,cadillac,Cadillac,20,,DNF,0.0
+2026,2,shanghai,"Shanghai, China",LIN,Arvid LINDBLAD,racing_bulls,Racing Bulls,15,,DNF,0.0
+2026,3,shanghai,"Shanghai, China",ANT,Kimi ANTONELLI,mercedes,Mercedes,1,1.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",RUS,George RUSSELL,mercedes,Mercedes,2,2.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",HAM,Lewis HAMILTON,ferrari,Ferrari,3,3.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",LEC,Charles LECLERC,ferrari,Ferrari,4,4.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,10,5.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",GAS,Pierre GASLY,alpine,Alpine,7,6.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",LAW,Liam LAWSON,racing_bulls,Racing Bulls,14,7.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",HAD,Isack HADJAR,red_bull_racing,Red Bull Racing,9,8.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",SAI,Carlos SAINZ,williams,Williams,17,9.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",COL,Franco COLAPINTO,alpine,Alpine,12,10.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",HUL,Nico HULKENBERG,audi,Audi,11,11.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",LIN,Arvid LINDBLAD,racing_bulls,Racing Bulls,15,12.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",BOT,Valtteri BOTTAS,cadillac,Cadillac,19,13.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,13,14.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",PER,Sergio PEREZ,cadillac,Cadillac,21,15.0,Finished,0.0
+2026,3,shanghai,"Shanghai, China",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,8,,DNF,0.0
+2026,3,shanghai,"Shanghai, China",ALO,Fernando ALONSO,aston_martin,Aston Martin,18,,DNF,0.0
+2026,3,shanghai,"Shanghai, China",STR,Lance STROLL,aston_martin,Aston Martin,20,,DNF,0.0
+2026,3,shanghai,"Shanghai, China",PIA,Oscar PIASTRI,mclaren,McLaren,5,,DNS,0.0
+2026,3,shanghai,"Shanghai, China",NOR,Lando NORRIS,mclaren,McLaren,6,,DNS,0.0
+2026,3,shanghai,"Shanghai, China",BOR,Gabriel BORTOLETO,audi,Audi,16,,DNS,0.0
+2026,3,shanghai,"Shanghai, China",ALB,Alexander ALBON,williams,Williams,22,,DNS,0.0
+2026,4,suzuka,"Suzuka, Japan",ANT,Kimi ANTONELLI,mercedes,Mercedes,1,1.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",PIA,Oscar PIASTRI,mclaren,McLaren,3,2.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",LEC,Charles LECLERC,ferrari,Ferrari,4,3.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",RUS,George RUSSELL,mercedes,Mercedes,2,4.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",NOR,Lando NORRIS,mclaren,McLaren,5,5.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",HAM,Lewis HAMILTON,ferrari,Ferrari,6,6.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",GAS,Pierre GASLY,alpine,Alpine,7,7.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",VER,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,11,8.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",LAW,Liam LAWSON,racing_bulls,Racing Bulls,14,9.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",OCO,Esteban OCON,haas_f1_team,Haas F1 Team,12,10.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",HUL,Nico HULKENBERG,audi,Audi,13,11.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",HAD,Isack HADJAR,red_bull_racing,Red Bull Racing,8,12.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",BOR,Gabriel BORTOLETO,audi,Audi,9,13.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",LIN,Arvid LINDBLAD,racing_bulls,Racing Bulls,10,14.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",SAI,Carlos SAINZ,williams,Williams,16,15.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",COL,Franco COLAPINTO,alpine,Alpine,15,16.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",PER,Sergio PEREZ,cadillac,Cadillac,19,17.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",ALO,Fernando ALONSO,aston_martin,Aston Martin,21,18.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",BOT,Valtteri BOTTAS,cadillac,Cadillac,20,19.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",ALB,Alexander ALBON,williams,Williams,17,20.0,Finished,0.0
+2026,4,suzuka,"Suzuka, Japan",STR,Lance STROLL,aston_martin,Aston Martin,22,,DNF,0.0
+2026,4,suzuka,"Suzuka, Japan",BEA,Oliver BEARMAN,haas_f1_team,Haas F1 Team,18,,DNF,0.0
