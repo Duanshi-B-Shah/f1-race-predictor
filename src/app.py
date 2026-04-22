@@ -93,12 +93,12 @@ pos_changes = recent_races["grid_position"] - recent_races["finish_position"].dr
 avg_pos_change = pos_changes.mean() if len(pos_changes) > 0 else 0.0
 
 features = pd.DataFrame([{
-    "grid_position": grid_position,
-    "driver_avg_finish": driver_avg,
-    "constructor_avg_finish": constructor_avg,
-    "circuit_driver_avg": circuit_avg,
-    "driver_dnf_rate": dnf_rate,
-    "grid_position_change": avg_pos_change,
+    "Grid Position": grid_position,
+    "Driver Finish Avg": driver_avg,
+    "Constructor Finish Avg": constructor_avg,
+    "Circuit Driver Avg": circuit_avg,
+    "Driver DNF Rate": dnf_rate,
+    "Grid Position Change": avg_pos_change,
 }])
 
 if st.button("Predict Finish Position", type="primary"):
